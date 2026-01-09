@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>German Policy Debate Tracker</title>
+    <meta name="description" content="Track political positions on policy debates in Germany">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Theme Toggle (load early to prevent flash) -->
+    <script src="theme.js"></script>
+</head>
+
+<body>
+    <!-- Dark Mode Toggle -->
+    <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">
+        <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+        </svg>
+        <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+        </svg>
+    </button>
+
+    <!-- Floating Background Shapes -->
+    <div class="floating-shapes">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="shape shape-3"></div>
+    </div>
+
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1>Policy Debate Tracker</h1>
+            <p>Track positions on key policy debates in Germany</p>
+        </header>
+
+        <!-- Search Bar -->
+        <div class="search-container">
+            <input type="text" id="searchInput" class="search-input"
+                placeholder="Search debates, companies, politicians..." autocomplete="off">
+            <div class="search-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+            </div>
+        </div>
+
+        <!-- Sort and Category Controls -->
+        <div class="controls-row">
+            <!-- Sector Navigation (left) -->
+            <nav class="sector-nav" id="sectorNav">
+                <button class="sector-tab active" data-sector="all">All Sectors</button>
+                <button class="sector-tab" data-sector="Steel">Steel</button>
+                <button class="sector-tab" data-sector="Energy">Energy</button>
+                <button class="sector-tab" data-sector="Tech">Tech</button>
+                <button class="sector-tab" data-sector="EV">EV</button>
+            </nav>
+
+            <!-- Sorting Buttons (right) -->
+            <div class="sort-controls" id="sortControls">
+                <span class="sort-label">Sort by</span>
+                <button class="sort-btn active" data-sort="trending">Trending</button>
+                <button class="sort-btn" data-sort="popular">Popular</button>
+                <button class="sort-btn" data-sort="newest">Newest</button>
+            </div>
+        </div>
+
+        <!-- Debates Grid -->
+        <div id="debatesContainer">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Loading debates...</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+
+    <!-- 100% privacy-first analytics -->
+    <script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+    <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif?collect-dnt=true" alt=""
+            referrerpolicy="no-referrer-when-downgrade" /></noscript>
+</body>
+
+</html>

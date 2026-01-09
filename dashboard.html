@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debate Dashboard - Policy Debate Tracker</title>
+    <meta name="description" content="Detailed analysis of policy debate">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="positions.css">
+    <link rel="stylesheet" href="advanced-tools.css">
+
+    <!-- Theme Toggle (load early to prevent flash) -->
+    <script src="theme.js"></script>
+</head>
+
+<body>
+    <!-- Dark Mode Toggle -->
+    <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">
+        <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+        </svg>
+        <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+        </svg>
+    </button>
+
+    <!-- Floating Background Shapes -->
+    <div class="floating-shapes">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="shape shape-3"></div>
+    </div>
+
+    <div class="container">
+        <!-- Dashboard Header -->
+        <header class="dashboard-header" id="dashboardHeader">
+            <a href="index.html" class="back-link">Back to Debates</a>
+            <h1 id="debateTitle">Loading...</h1>
+            <p id="debateSummary"></p>
+        </header>
+
+        <!-- Metric Cards moved to Advanced Tools section below -->
+
+        <!-- Dashboard Grid -->
+        <div class="dashboard-grid">
+            <!-- Popularity Trend Chart -->
+            <div class="glass-card-static chart-card">
+                <h3>Media Coverage Over Time</h3>
+                <canvas id="popularityChart"></canvas>
+            </div>
+
+            <!-- Sentiment Trend Chart -->
+            <div class="glass-card-static chart-card">
+                <h3>Sentiment Trend</h3>
+                <canvas id="sentimentChart"></canvas>
+            </div>
+
+            <!-- Executive Brief -->
+            <div class="glass-card-static executive-brief-card full-width" id="executiveBriefSection"
+                style="display: none;">
+                <h3>Executive Brief</h3>
+                <div id="executiveBriefContent" class="executive-brief-content"></div>
+            </div>
+
+
+            <!-- Policy Overview card removed - content now used in page summary -->
+
+
+            <!-- Policy Positions -->
+            <div class="glass-card-static positions-card full-width" id="positionsSection" style="display: none;">
+                <h3>Policy Positions</h3>
+
+                <div class="positions-summary" id="positionsSummary"></div>
+                <div class="positions-grid" id="positionsGrid">
+                    <div class="position-column position-support">
+                        <h4>Support</h4>
+                        <div id="positionsSupport" class="position-list"></div>
+                    </div>
+                    <div class="position-column position-neutral">
+                        <h4>Neutral</h4>
+                        <div id="positionsNeutral" class="position-list"></div>
+                    </div>
+                    <div class="position-column position-oppose">
+                        <h4>Oppose</h4>
+                        <div id="positionsOppose" class="position-list"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- What's at Stake moved to Advanced Tools section below -->
+
+
+            <!-- Entities Section -->
+            <div class="glass-card-static chart-card full-width">
+                <h3>Key Entities Mentioned</h3>
+                <div id="entitiesContainer">
+                    <div class="entity-section">
+                        <h4>Companies</h4>
+                        <div class="entity-tags" id="companiesTags"></div>
+                    </div>
+                    <div class="entity-section">
+                        <h4>Politicians</h4>
+                        <div class="entity-tags" id="politiciansTags"></div>
+                    </div>
+                    <div class="entity-section">
+                        <h4>Organizations</h4>
+                        <div class="entity-tags" id="organizationsTags"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Financial Summary -->
+            <div class="glass-card-static chart-card full-width" id="financialSection">
+                <h3>Financial Impact</h3>
+                <div id="financialList"></div>
+            </div>
+
+            <!-- Key Arguments -->
+            <div class="glass-card-static key-arguments-card" id="keyArgumentsSection" style="display: none;">
+                <h3>Key Arguments</h3>
+                <div class="arguments-grid">
+                    <div class="arguments-column arguments-for">
+                        <h4>Positive</h4>
+                        <ul id="argumentsFor"></ul>
+                    </div>
+                    <div class="arguments-column arguments-against">
+                        <h4>Negative</h4>
+                        <ul id="argumentsAgainst"></ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sections moved to Advanced Tools below -->
+        </div>
+    </div>
+
+    <!-- ============================================
+         ADVANCED TOOLS SECTION
+         Collapsible sections for detailed analysis
+         ============================================ -->
+    <div class="container">
+        <div class="advanced-tools-container">
+            <div class="advanced-tools-header">
+                <h2>Advanced Analysis Tools</h2>
+                <p class="advanced-tools-description">Detailed data for in-depth policy research</p>
+            </div>
+
+            <!-- Key Statistics (Collapsible) - Metric Cards -->
+            <div class="advanced-tool-section" id="statisticsSection">
+                <button class="advanced-tool-toggle" onclick="toggleAdvancedSection('statisticsContent', this)">
+                    <span class="toggle-icon">▶</span>
+                    <span class="toggle-title">Key Statistics</span>
+                    <span class="toggle-hint">Articles, Sources, Quotes, Financial Mentions</span>
+                </button>
+                <div class="advanced-tool-content" id="statisticsContent" style="display: none;">
+                    <div class="metric-cards" id="metricCards">
+                        <div class="glass-card-static metric-card">
+                            <div class="metric-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path
+                                        d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2" />
+                                    <path d="M18 14h-8" />
+                                    <path d="M15 18h-5" />
+                                    <path d="M10 6h8v4h-8V6z" />
+                                </svg>
+                            </div>
+                            <div class="metric-value" id="totalArticles">-</div>
+                            <div class="metric-label">Articles</div>
+                        </div>
+                        <div class="glass-card-static metric-card">
+                            <div class="metric-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="10" />
+                                    <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" />
+                                    <path d="M2 12h20" />
+                                </svg>
+                            </div>
+                            <div class="metric-value" id="totalSources">-</div>
+                            <div class="metric-label">Sources</div>
+                        </div>
+                        <div class="glass-card-static metric-card">
+                            <div class="metric-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
+                                    <path d="M8 10h8" />
+                                    <path d="M8 14h4" />
+                                </svg>
+                            </div>
+                            <div class="metric-value" id="totalQuotes">-</div>
+                            <div class="metric-label">Quotes</div>
+                        </div>
+                        <div class="glass-card-static metric-card">
+                            <div class="metric-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <line x1="12" y1="1" x2="12" y2="23" />
+                                    <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+                                </svg>
+                            </div>
+                            <div class="metric-value" id="financialCount">-</div>
+                            <div class="metric-label">Financial Mentions</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- What's at Stake (Collapsible) -->
+            <div class="advanced-tool-section" id="whatsAtStakeSection" style="display: none;">
+                <button class="advanced-tool-toggle" onclick="toggleAdvancedSection('whatsAtStakeContent', this)">
+                    <span class="toggle-icon">▶</span>
+                    <span class="toggle-title">What's at Stake</span>
+                    <span class="toggle-hint">Winners, Losers, Risks, Opportunities</span>
+                </button>
+                <div class="advanced-tool-content" id="whatsAtStakeContent" style="display: none;">
+                    <div class="stake-grid">
+                        <div class="stake-column stake-winners">
+                            <h4>Winners</h4>
+                            <ul id="stakeWinners"></ul>
+                        </div>
+                        <div class="stake-column stake-losers">
+                            <h4>Losers</h4>
+                            <ul id="stakeLosers"></ul>
+                        </div>
+                        <div class="stake-column stake-risks">
+                            <h4>Risks</h4>
+                            <ul id="stakeRisks"></ul>
+                        </div>
+                        <div class="stake-column stake-opportunities">
+                            <h4>Opportunities</h4>
+                            <ul id="stakeOpportunities"></ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Quote Network (Collapsible) -->
+            <div class="advanced-tool-section" id="quoteNetworkSection" style="display: none;">
+                <button class="advanced-tool-toggle" onclick="toggleAdvancedSection('quoteNetworkContent', this)">
+                    <span class="toggle-icon">▶</span>
+                    <span class="toggle-title">Quote Network</span>
+                    <span class="toggle-hint">Speaker and entity connections</span>
+                </button>
+                <div class="advanced-tool-content" id="quoteNetworkContent" style="display: none;">
+                    <div class="network-connections" id="networkConnections"></div>
+                </div>
+            </div>
+
+            <!-- Source Bias (Collapsible) -->
+            <div class="advanced-tool-section" id="sourceBiasSection" style="display: none;">
+                <button class="advanced-tool-toggle" onclick="toggleAdvancedSection('sourceBiasContent', this)">
+                    <span class="toggle-icon">▶</span>
+                    <span class="toggle-title">Source Coverage Bias</span>
+                    <span class="toggle-hint">Media coverage analysis</span>
+                </button>
+                <div class="advanced-tool-content" id="sourceBiasContent" style="display: none;">
+                    <div class="bias-summary" id="biasSummary"></div>
+                    <div class="bias-zones" id="biasZones"></div>
+                </div>
+            </div>
+
+            <!-- Key Quotes (Collapsible) -->
+            <div class="advanced-tool-section" id="quotesAdvancedSection">
+                <button class="advanced-tool-toggle" onclick="toggleAdvancedSection('quotesAdvancedContent', this)">
+                    <span class="toggle-icon">▶</span>
+                    <span class="toggle-title">Key Quotes</span>
+                    <span class="toggle-hint" id="quotesAdvancedHint">All quotes from stakeholders</span>
+                </button>
+                <div class="advanced-tool-content" id="quotesAdvancedContent" style="display: none;">
+                    <div class="section-header">
+                        <div class="quotes-filters">
+                            <button class="speaker-filter-toggle" id="speakerFilterToggleAdv">
+                                <span>Filter by Speaker</span>
+                                <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <path d="M2 4l4 4 4-4" />
+                                </svg>
+                            </button>
+                            <div class="filter-buttons" id="quotesFilterAdv">
+                                <button class="filter-btn active" data-filter="all">All <span
+                                        class="count"></span></button>
+                                <button class="filter-btn" data-filter="positive">Positive <span
+                                        class="count"></span></button>
+                                <button class="filter-btn" data-filter="neutral">Neutral <span
+                                        class="count"></span></button>
+                                <button class="filter-btn" data-filter="negative">Negative <span
+                                        class="count"></span></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="speaker-filter-list collapsed" id="speakerFilterListAdv">
+                        <button class="filter-btn active" data-speaker="all">All Speakers</button>
+                    </div>
+                    <div id="quotesContainerAdv"></div>
+                </div>
+            </div>
+
+            <!-- Source Articles (Collapsible) -->
+            <div class="advanced-tool-section" id="articlesAdvancedSection">
+                <button class="advanced-tool-toggle" onclick="toggleAdvancedSection('articlesAdvancedContent', this)">
+                    <span class="toggle-icon">▶</span>
+                    <span class="toggle-title">Source Articles</span>
+                    <span class="toggle-hint" id="articlesAdvancedHint">Original news sources</span>
+                </button>
+                <div class="advanced-tool-content" id="articlesAdvancedContent" style="display: none;">
+                    <div class="section-header">
+                        <div class="articles-filters">
+                            <button class="source-filter-toggle" id="sourceFilterToggleAdv">
+                                <span>Filter by Source</span>
+                                <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <path d="M2 4l4 4 4-4" />
+                                </svg>
+                            </button>
+                            <div class="filter-buttons" id="articlesFilterAdv">
+                                <button class="filter-btn active" data-filter="all">All <span
+                                        class="count"></span></button>
+                                <button class="filter-btn" data-filter="positive">Positive <span
+                                        class="count"></span></button>
+                                <button class="filter-btn" data-filter="neutral">Neutral <span
+                                        class="count"></span></button>
+                                <button class="filter-btn" data-filter="negative">Negative <span
+                                        class="count"></span></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="source-filter-list collapsed" id="sourceFilterListAdv">
+                        <button class="filter-btn active" data-source="all">All Sources</button>
+                    </div>
+                    <ul class="article-list" id="articlesListAdv"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="dashboard.js"></script>
+
+    <!-- 100% privacy-first analytics -->
+    <script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+    <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif?collect-dnt=true" alt=""
+            referrerpolicy="no-referrer-when-downgrade" /></noscript>
+</body>
+
+</html>

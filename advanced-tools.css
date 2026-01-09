@@ -1,0 +1,142 @@
+/* =============================================================================
+   ADVANCED TOOLS SECTION
+   Collapsible container for detailed analysis tools
+   ============================================================================= */
+
+.advanced-tools-container {
+    margin-top: 0;
+    padding-top: 2rem;
+    border-top: 2px solid var(--gray-200);
+}
+
+[data-theme="dark"] .advanced-tools-container {
+    border-top-color: rgba(255, 255, 255, 0.1);
+}
+
+.advanced-tools-header {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.advanced-tools-header h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--gray-700);
+    margin-bottom: 0.5rem;
+}
+
+.advanced-tools-description {
+    color: var(--gray-500);
+    font-size: 0.9375rem;
+}
+
+.advanced-tool-section {
+    margin-bottom: 1rem;
+    background: var(--glass-bg);
+    backdrop-filter: blur(var(--blur-lg));
+    -webkit-backdrop-filter: blur(var(--blur-lg));
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-2xl);
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.advanced-tool-section:hover {
+    box-shadow: var(--shadow-glass);
+}
+
+.advanced-tool-toggle {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 1.25rem;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    text-align: left;
+    transition: background-color 0.2s ease;
+}
+
+.advanced-tool-toggle:hover {
+    background: rgba(99, 102, 241, 0.05);
+}
+
+[data-theme="dark"] .advanced-tool-toggle:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.toggle-icon {
+    font-size: 0.75rem;
+    color: var(--gray-500);
+    transition: transform 0.3s ease;
+    flex-shrink: 0;
+}
+
+.advanced-tool-toggle.expanded .toggle-icon {
+    transform: rotate(90deg);
+}
+
+.toggle-title {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--gray-800);
+    flex-shrink: 0;
+    margin-right: auto;
+    margin-left: 0.5rem;
+}
+
+.toggle-hint {
+    font-size: 0.875rem;
+    color: var(--gray-500);
+    text-align: right;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+    flex: 1;
+}
+
+@media (max-width: 600px) {
+    .toggle-hint {
+        display: none;
+    }
+}
+
+.advanced-tool-content {
+    padding: 1.5rem 1.25rem 1.25rem 1.25rem;
+    border-top: 1px solid var(--glass-border);
+}
+
+/* Expand button for positions columns */
+.expand-btn {
+    width: 100%;
+    padding: 0.75rem;
+    margin-top: 0.75rem;
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-md);
+    color: var(--primary-600);
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.expand-btn:hover {
+    background: var(--primary-500);
+    color: white;
+    border-color: var(--primary-500);
+}
+
+[data-theme="dark"] .expand-btn {
+    background: rgba(255, 255, 255, 0.05);
+    border-color: rgba(255, 255, 255, 0.1);
+    color: var(--primary-400);
+}
+
+[data-theme="dark"] .expand-btn:hover {
+    background: var(--primary-600);
+    color: white;
+}
