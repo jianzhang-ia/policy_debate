@@ -2,6 +2,33 @@
   "generated_at": "2026-01-08T19:17:25.564205",
   "debates": [
     {
+      "id": 9,
+      "debate_uri": "debate-verbrennerverbot-ev",
+      "title": "Combustion Engine Ban (Verbrennerverbot)",
+      "sector": "EV",
+      "policy_name": "Combustion Engine Ban (Verbrennerverbot)",
+      "summary": "Policy tracking for Combustion Engine Ban (Verbrennerverbot)",
+      "first_seen": "2026-01-10T00:26:52.960554",
+      "last_updated": "2026-01-10T00:26:52.960554",
+      "created_at": "2026-01-09 23:26:52",
+      "article_count": 120,
+      "first_article_date": "2025-12-09T08:30:34Z",
+      "last_article_date": "2026-01-08T12:10:27Z",
+      "avg_sentiment": -0.2199999999999998,
+      "positive_articles": 29,
+      "negative_articles": 85,
+      "position_support": 0,
+      "position_oppose": 0,
+      "position_neutral": 0,
+      "top_companies": [
+        "Volkswagen",
+        "BMW",
+        "Tesla",
+        "Mercedes-Benz",
+        "Mercedes"
+      ]
+    },
+    {
       "id": 1,
       "debate_uri": "debate-industriestrompreis-energy",
       "title": "Industrial Electricity Price (Industriestrompreis)",
@@ -9,7 +36,7 @@
       "policy_name": "Industrial Electricity Price (Industriestrompreis)",
       "summary": "Policy tracking for Industrial Electricity Price (Industriestrompreis)",
       "first_seen": "2026-01-08T19:04:09.410489",
-      "last_updated": "2026-01-09T17:50:48.792998",
+      "last_updated": "2026-01-10T00:21:47.657139",
       "created_at": "2026-01-08 18:04:09",
       "article_count": 255,
       "first_article_date": "2025-12-09T03:46:55Z",
