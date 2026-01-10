@@ -10,7 +10,7 @@
     "last_updated": "2026-01-10T00:26:52.960554",
     "created_at": "2026-01-09 23:26:52"
   },
-  "generated_at": "2026-01-10T02:40:30.756597",
+  "generated_at": "2026-01-10T15:07:23.886881",
   "articles": [
     {
       "id": 273,
@@ -5567,9 +5567,9 @@
       "published_date": "2025-12-28T13:22:01Z",
       "reported_count": 3,
       "sources": [
+        "Stuttgarter-Zeitung.de",
         "N-tv",
-        "Rhein-Neckar-Zeitung",
-        "Stuttgarter-Zeitung.de"
+        "Rhein-Neckar-Zeitung"
       ]
     },
     {
@@ -5585,9 +5585,9 @@
       "published_date": "2025-12-28T13:22:01Z",
       "reported_count": 3,
       "sources": [
+        "Stuttgarter-Zeitung.de",
         "N-tv",
-        "Rhein-Neckar-Zeitung",
-        "Stuttgarter-Zeitung.de"
+        "Rhein-Neckar-Zeitung"
       ]
     },
     {
@@ -5603,9 +5603,9 @@
       "published_date": "2025-12-28T13:22:01Z",
       "reported_count": 3,
       "sources": [
+        "Stuttgarter-Zeitung.de",
         "N-tv",
-        "Rhein-Neckar-Zeitung",
-        "Stuttgarter-Zeitung.de"
+        "Rhein-Neckar-Zeitung"
       ]
     },
     {
@@ -6120,8 +6120,8 @@
       "published_date": "2025-12-12T16:12:06Z",
       "reported_count": 2,
       "sources": [
-        "Rhein-Neckar-Zeitung",
-        "Boersen-Zeitung der WM Gruppe Herausgebergemeinschaft Wertpapier-Mitteilungen, Keppler, Lehmann GmbH & Co. KG (WM Gruppe)"
+        "Boersen-Zeitung der WM Gruppe Herausgebergemeinschaft Wertpapier-Mitteilungen, Keppler, Lehmann GmbH & Co. KG (WM Gruppe)",
+        "Rhein-Neckar-Zeitung"
       ]
     },
     {
@@ -6618,8 +6618,8 @@
       "published_date": "2025-12-19T08:20:50Z",
       "reported_count": 2,
       "sources": [
-        "ecomento.de",
-        "MMnews"
+        "MMnews",
+        "ecomento.de"
       ]
     },
     {
@@ -6667,9 +6667,9 @@
       "published_date": "2025-12-18T08:22:10Z",
       "reported_count": 3,
       "sources": [
+        "MMnews",
         "N-tv",
-        "Der Tagesspiegel",
-        "MMnews"
+        "Der Tagesspiegel"
       ]
     },
     {
@@ -6781,8 +6781,8 @@
       "published_date": "2025-12-17T19:24:15Z",
       "reported_count": 2,
       "sources": [
-        "Der Tagesspiegel",
-        "MMnews"
+        "MMnews",
+        "Der Tagesspiegel"
       ]
     },
     {
@@ -6814,8 +6814,8 @@
       "published_date": "2025-12-18T08:22:10Z",
       "reported_count": 2,
       "sources": [
-        "Der Tagesspiegel",
-        "MMnews"
+        "MMnews",
+        "Der Tagesspiegel"
       ]
     },
     {
@@ -6863,9 +6863,9 @@
       "published_date": "2025-12-28T13:22:01Z",
       "reported_count": 3,
       "sources": [
+        "Stuttgarter-Zeitung.de",
         "N-tv",
-        "Rhein-Neckar-Zeitung",
-        "Stuttgarter-Zeitung.de"
+        "Rhein-Neckar-Zeitung"
       ]
     },
     {
@@ -6977,11 +6977,11 @@
       "published_date": "2025-12-24T07:38:03Z",
       "reported_count": 5,
       "sources": [
+        "Merkur.de",
+        "Ad Hoc News",
         "MMnews",
         "Politikexpress",
-        "firmenpresse.de",
-        "Merkur.de",
-        "Ad Hoc News"
+        "firmenpresse.de"
       ]
     },
     {
@@ -6997,10 +6997,10 @@
       "published_date": "2025-12-24T07:38:03Z",
       "reported_count": 4,
       "sources": [
+        "MMnews",
         "firmenpresse.de",
-        "Politikexpress",
         "Merkur.de",
-        "MMnews"
+        "Politikexpress"
       ]
     },
     {
@@ -7048,10 +7048,10 @@
       "published_date": "2025-12-20T02:45:27Z",
       "reported_count": 4,
       "sources": [
-        "Ad Hoc News",
+        "MMnews",
         "firmenpresse.de",
-        "Politikexpress",
-        "MMnews"
+        "Ad Hoc News",
+        "Politikexpress"
       ]
     },
     {
@@ -7617,8 +7617,8 @@
       "reported_count": 3,
       "sources": [
         "JUNGE FREIHEIT",
-        "Die Achse des Guten",
-        "finanzen.at"
+        "finanzen.at",
+        "Die Achse des Guten"
       ]
     },
     {
@@ -7827,10 +7827,10 @@
       "published_date": "2025-12-17T04:52:24Z",
       "reported_count": 4,
       "sources": [
-        "Frankfurter Rundschau",
+        "finanzen.at",
         "firmenpresse.de",
         "Mittelstand Cafe",
-        "finanzen.at"
+        "Frankfurter Rundschau"
       ]
     },
     {
@@ -7958,9 +7958,9 @@
       "published_date": "2025-12-16T16:26:02Z",
       "reported_count": 3,
       "sources": [
-        "Frankfurter Rundschau",
         "WAZ/AZ-online.de",
-        "DNN - Dresdner Neueste Nachrichten"
+        "DNN - Dresdner Neueste Nachrichten",
+        "Frankfurter Rundschau"
       ]
     },
     {
@@ -8248,9 +8248,9 @@
       "published_date": "2025-12-16T16:26:02Z",
       "reported_count": 3,
       "sources": [
-        "Frankfurter Rundschau",
         "WAZ/AZ-online.de",
-        "DNN - Dresdner Neueste Nachrichten"
+        "DNN - Dresdner Neueste Nachrichten",
+        "Frankfurter Rundschau"
       ]
     },
     {
@@ -8282,9 +8282,9 @@
       "published_date": "2025-12-16T16:26:02Z",
       "reported_count": 3,
       "sources": [
-        "Frankfurter Rundschau",
         "WAZ/AZ-online.de",
-        "DNN - Dresdner Neueste Nachrichten"
+        "DNN - Dresdner Neueste Nachrichten",
+        "Frankfurter Rundschau"
       ]
     },
     {
@@ -8300,9 +8300,9 @@
       "published_date": "2025-12-16T16:26:02Z",
       "reported_count": 3,
       "sources": [
-        "Frankfurter Rundschau",
         "WAZ/AZ-online.de",
-        "DNN - Dresdner Neueste Nachrichten"
+        "DNN - Dresdner Neueste Nachrichten",
+        "Frankfurter Rundschau"
       ]
     },
     {
@@ -8383,8 +8383,8 @@
       "published_date": "2025-12-15T13:04:00Z",
       "reported_count": 2,
       "sources": [
-        "Jouwatch",
-        "Politically Incorrect"
+        "Politically Incorrect",
+        "Jouwatch"
       ]
     },
     {
@@ -8400,8 +8400,8 @@
       "published_date": "2025-12-15T13:04:00Z",
       "reported_count": 2,
       "sources": [
-        "Jouwatch",
-        "Politically Incorrect"
+        "Politically Incorrect",
+        "Jouwatch"
       ]
     },
     {
@@ -8417,8 +8417,8 @@
       "published_date": "2025-12-15T13:04:00Z",
       "reported_count": 2,
       "sources": [
-        "Jouwatch",
-        "Politically Incorrect"
+        "Politically Incorrect",
+        "Jouwatch"
       ]
     },
     {
@@ -8450,8 +8450,8 @@
       "published_date": "2025-12-15T13:04:00Z",
       "reported_count": 2,
       "sources": [
-        "Jouwatch",
-        "Politically Incorrect"
+        "Politically Incorrect",
+        "Jouwatch"
       ]
     },
     {
@@ -8851,8 +8851,8 @@
       "published_date": "2025-12-12T12:52:46Z",
       "reported_count": 2,
       "sources": [
-        "PRESSEPORTAL",
-        "firmenpresse.de"
+        "firmenpresse.de",
+        "PRESSEPORTAL"
       ]
     },
     {
@@ -8868,8 +8868,8 @@
       "published_date": "2025-12-12T12:52:46Z",
       "reported_count": 2,
       "sources": [
-        "PRESSEPORTAL",
-        "firmenpresse.de"
+        "firmenpresse.de",
+        "PRESSEPORTAL"
       ]
     },
     {
@@ -8885,8 +8885,8 @@
       "published_date": "2025-12-12T12:52:46Z",
       "reported_count": 2,
       "sources": [
-        "PRESSEPORTAL",
-        "firmenpresse.de"
+        "firmenpresse.de",
+        "PRESSEPORTAL"
       ]
     },
     {
@@ -9070,9 +9070,9 @@
     {
       "speaker": "Oliver Zipse",
       "speaker_role": "",
-      "quote_text": "Es ist absurd, dass die EU-Kommission Technologieneutralit\u00e4t zum Leitprinzip erkl\u00e4rt - aber gleichzeitig \u00fcber die Flottenregulierung in wichtigen M\u00e4rkten doch ein Verbrennerverbot durch die Hintert\u00fcr",
+      "quote_text": "Ein Verbrennerverbot durch die Hintert\u00fcr",
       "position": "oppose",
-      "reasoning": "Criticizes the policy as a 'backdoor ban', advocates for technology neutrality, and argues for more flexibility and consideration of the entire CO2 footprint.",
+      "reasoning": "He criticizes the policy as a 'combustion engine ban through the back door,' advocates for technology neutrality, and argues for a focus on the entire CO2 footprint rather than rigid electrification quotas.",
       "confidence": "high",
       "reported_count": 1
     },
@@ -9081,16 +9081,16 @@
       "speaker_role": "",
       "quote_text": "Mehr Technologieoffenheit und mehr Flexibilit\u00e4t sind richtige Schritte - um Klimaziele, Marktrealit\u00e4ten, Unternehmen und Arbeitspl\u00e4tze besser zusammenzubringen.",
       "position": "oppose",
-      "reasoning": "Calls for more technology openness and flexibility, opposes strict quotas, and supports a different path to climate goals.",
+      "reasoning": "He calls for more technology openness and flexibility, opposes new legal quotas for company car fleets, and seeks a different path while maintaining climate goals.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Manfred Weber",
       "speaker_role": "",
-      "quote_text": "Damit ist das Technologieverbot f\u00fcr den Verbrenner vom Tisch. Alle derzeit in Deutschland gebauten Motoren k\u00f6nnen damit weiterproduziert und verkauft werden.",
+      "quote_text": "Damit ist das Technologieverbot f\u00fcr den Verbrenner vom Tisch.",
       "position": "oppose",
-      "reasoning": "Celebrates the removal of the technology ban for combustion engines, supports a 90% reduction target instead of 100%, and emphasizes consumer choice and industrial jobs.",
+      "reasoning": "He describes the original ban as a 'heavy industrial-political misdecision,' supports a 90% reduction target instead of 100%, and declares the technology ban off the table.",
       "confidence": "high",
       "reported_count": 1
     },
@@ -9099,7 +9099,7 @@
       "speaker_role": "",
       "quote_text": "Es ist Zeit, dass dieses Verbrennerverbot verschwindet, es ist Zeit, dass die Flottengrenzwerte verschwinden.",
       "position": "oppose",
-      "reasoning": "Explicitly calls for the combustion engine ban and fleet limits to disappear, framing it as a cultural war against industry.",
+      "reasoning": "He explicitly calls for the combustion engine ban and fleet limits to disappear, framing it as ending a culture war against the auto industry.",
       "confidence": "high",
       "reported_count": 1
     },
@@ -9107,17 +9107,17 @@
       "speaker": "Christian Lindner",
       "speaker_role": "",
       "quote_text": "Alles kann, nichts muss.",
-      "position": "neutral",
-      "reasoning": "No direct statement on the combustion engine ban in the provided quotes; comments are focused on broader political issues.",
-      "confidence": "low",
+      "position": "oppose",
+      "reasoning": "As FDP leader, he generally opposes technology bans and advocates for flexibility and market-based solutions, though the provided quotes are not directly on the policy.",
+      "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "Alice Weidel",
       "speaker_role": "",
-      "quote_text": "Unsere Energiepreise sind viel zu hoch. Wir fliegen \u00fcberall aus dem internationalen Wettbewerb raus.",
+      "quote_text": "Frieden in Europa kann es nicht ohne Russland geben.",
       "position": "neutral",
-      "reasoning": "Quotes address energy policy and criticism of past governments, but do not directly mention the combustion engine ban.",
+      "reasoning": "The provided quotes do not address the combustion engine ban policy, making her stance unclear.",
       "confidence": "low",
       "reported_count": 1
     },
@@ -9125,9 +9125,9 @@
       "speaker": "Lars Klingbeil",
       "speaker_role": "",
       "quote_text": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, indem zum Beispiel Hybride noch l\u00e4nger zugelassen werden",
-      "position": "oppose",
-      "reasoning": "Supports flexibility such as allowing hybrids longer, which weakens the strict ban, while still advocating for rapid transition to electric mobility.",
-      "confidence": "high",
+      "position": "support",
+      "reasoning": "He supports the policy's goal of climate neutrality and electric mobility, but advocates for flexibility such as allowing hybrids longer, indicating he wants the policy to exist with adjustments.",
+      "confidence": "medium",
       "reported_count": 1
     },
     {
@@ -9135,97 +9135,97 @@
       "speaker_role": "",
       "quote_text": "Was die Performance bei klimavertr\u00e4glichen Pkw angeht, bin ich aber zutiefst entt\u00e4uscht von ihm.",
       "position": "support",
-      "reasoning": "As an environmental activist, he is highly critical of the auto industry's climate performance and likely supports strict regulations to reduce emissions.",
+      "reasoning": "As an environmental activist, he criticizes auto industry leaders for insufficient action on climate-friendly cars, implying support for strong regulations to reduce emissions.",
       "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "Cem \u00d6zdemir",
       "speaker_role": "",
-      "quote_text": "Kein Klimaschutz ist immer teurer als Klimaschutz",
+      "quote_text": "Lasst uns flexibel sein im Weg, aber klar im Ziel.",
       "position": "support",
-      "reasoning": "Emphasizes the importance of climate protection and clear goals for electrification, while allowing flexibility in the path.",
-      "confidence": "medium",
+      "reasoning": "He emphasizes being flexible on the path but clear on the goal of electrification, supporting the policy's existence while allowing for adaptability.",
+      "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Markus S\u00f6der",
       "speaker_role": "",
       "quote_text": "Das ist ein sehr gutes Signal, wenn auch nur ein erster Schritt, denn nur zehn Prozent Verbrenner reicht noch nicht",
-      "position": "support",
-      "reasoning": "States that a 90% reduction target is not enough, implying he wants a stricter ban on combustion engines.",
+      "position": "oppose",
+      "reasoning": "He welcomes the relaxation of the ban (e.g., 10% allowance) as a good signal but argues it is not enough, indicating he wants the policy further weakened.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Stefan Bratzel",
       "speaker_role": "",
-      "quote_text": "Die anhaltende Diskussion rund um das faktische Verbrennerverbot 2035 verst\u00e4rkt die Verunsicherung der Verbraucher und verz\u00f6gert den schnellen Markthochlauf und die Realisierung wichtiger Skaleneffekte",
+      "quote_text": "Die anhaltende Diskussion rund um das faktische Verbrennerverbot 2035 verst\u00e4rkt die Verunsicherung der Verbraucher und verz\u00f6gert den schnellen Markthochlauf",
       "position": "neutral",
-      "reasoning": "Criticizes the uncertainty caused by the debate around the ban but does not explicitly take a position for or against the policy itself.",
+      "reasoning": "He criticizes the uncertainty caused by the debate around the ban and calls for clearer signals and better promotion of electromobility, without explicitly supporting or opposing the ban itself.",
       "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "Michael Bloss",
       "speaker_role": "",
-      "quote_text": "Wenn der gr\u00f6\u00dfte Automarkt der Welt, China, auf Elektromobilit\u00e4t setzt, k\u00f6nnen wir als Exportnation nicht bestehen, wenn wir diese Realit\u00e4t ignorieren und den Menschen immer wieder sagen, dass die Welt sich nicht \u00e4ndert",
+      "quote_text": "Wenn der gr\u00f6\u00dfte Automarkt der Welt, China, auf Elektromobilit\u00e4t setzt, k\u00f6nnen wir als Exportnation nicht bestehen, wenn wir diese Realit\u00e4t ignorieren",
       "position": "support",
-      "reasoning": "Argues that weakening the ban ignores global trends and harms the automotive industry's competitiveness, advocating for a full transition to electric mobility.",
+      "reasoning": "He opposes weakening the ban, arguing that it harms climate action and industrial competitiveness, especially in light of global shifts to electromobility.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Ursula von der Leyen",
       "speaker_role": "",
-      "quote_text": "Doch jetzt machte Kommissionspr\u00e4sidentin Ursula von der Leyen einen R\u00fcckzieher und will nicht l\u00e4nger auf dem harten Enddatum beharren",
+      "quote_text": "Doch jetzt machte Kommissionspr\u00e4sidentin Ursula von der Leyen einen R\u00fcckzieher und will nicht l\u00e4nger auf dem harten Enddatum beharren.",
       "position": "oppose",
-      "reasoning": "Backtracks on the hard end date for combustion engines, advocating for more flexibility while still claiming leadership in the clean transition.",
+      "reasoning": "She is described as making a U-turn and no longer insisting on a hard end date for combustion engines, indicating opposition to a strict ban.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Sebastian Bock",
       "speaker_role": "",
-      "quote_text": "Es ist das v\u00f6llig falsche Signal, jetzt zu verk\u00fcnden, dass der klassische Verbrenner \u00fcber 2035 hinaus eine Zukunft hat",
+      "quote_text": "Es ist das v\u00f6llig falsche Signal, jetzt zu verk\u00fcnden, dass der klassische Verbrenner \u00fcber 2035 hinaus eine Zukunft hat.",
       "position": "support",
-      "reasoning": "Criticizes any signal that combustion engines have a future beyond 2035, arguing it sends the wrong message for climate and industry competitiveness.",
+      "reasoning": "He criticizes the industry for pushing to keep combustion engines alive and argues that signaling a future for them beyond 2035 is the wrong signal for climate and competitiveness.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Johannes Oetjen",
       "speaker_role": "",
-      "quote_text": "Elektrofahrzeuge gelten als Chance, lokale Wertsch\u00f6pfung zu generieren und Afrikas reichhaltige Rohstoffvorkommen sowie sein gro\u00dfes Potenzial an erneuerbarer Energie zu nutzen",
+      "quote_text": "Elektrofahrzeuge gelten als Chance, lokale Wertsch\u00f6pfung zu generieren und Afrikas reichhaltige Rohstoffvorkommen sowie sein gro\u00dfes Potenzial an erneuerbarer Energie zu nutzen.",
       "position": "neutral",
-      "reasoning": "Discusses the potential for electric mobility in Africa, but does not comment on the EU combustion engine ban policy.",
-      "confidence": "medium",
+      "reasoning": "He discusses the potential for electric vehicles in Africa without expressing a clear stance on the EU combustion engine ban policy.",
+      "confidence": "low",
       "reported_count": 1
     },
     {
       "speaker": "Christian Levin",
       "speaker_role": "",
-      "quote_text": "Die Idee, dass wir absichtlich langsamer machen, ist absurd. Jeder verkaufte Elektro-Lkw hilft uns",
+      "quote_text": "Wir stehen zu den Klimazielen",
       "position": "support",
-      "reasoning": "Supports climate goals and argues against slowing down the transition to electric vehicles, implying support for policies that drive electrification.",
+      "reasoning": "He affirms commitment to climate goals, criticizes the current system, and emphasizes the need to sell as many emission-free vehicles as possible, aligning with policies that push for zero-emission transport.",
       "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "Monika Schnitzer",
       "speaker_role": "",
-      "quote_text": "das gelockerte Verbrenner-Aus werde eher noch mehr Jobs vernichten",
+      "quote_text": "das gelockerte Verbrenner-Aus werde eher noch mehr Jobs vernichten.",
       "position": "support",
-      "reasoning": "Criticizes the loosening of the ban, suggesting it will cost more jobs, implying that the stricter ban is preferable.",
+      "reasoning": "She argues that relaxing the combustion engine phase-out will cost more jobs in the long term, implying support for a stricter phase-out policy.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Jan-Christoph Oetjen",
       "speaker_role": "",
-      "quote_text": "Die Abkehr vom Verbrenner-Aus ist eine Mogelpackung",
+      "quote_text": "Die Abkehr vom Verbrenner-Aus ist eine Mogelpackung.",
       "position": "oppose",
-      "reasoning": "Calls the retreat from the ban a sham and criticizes new rules for company cars that effectively bring a de facto ban earlier.",
+      "reasoning": "He criticizes the revised policy as a 'sham' because company car rules effectively bring forward a ban, indicating opposition to the policy's design and impact.",
       "confidence": "high",
       "reported_count": 1
     },
@@ -9234,17 +9234,17 @@
       "speaker_role": "",
       "quote_text": "Wir k\u00f6nnen Klimaschutz auch ohne Verbrennerverbot erreichen",
       "position": "oppose",
-      "reasoning": "Explicitly states that climate protection can be achieved without a combustion engine ban and calls the ban a mistake.",
+      "reasoning": "He explicitly states that climate protection can be achieved without a combustion engine ban and calls the ban decision a mistake.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Moritz Schularick",
       "speaker_role": "",
-      "quote_text": "Wenn die Chinesen bei VW einsteigen und dann in Osnabr\u00fcck und Wolfsburg mit deutschen Arbeitskr\u00e4ften wettbewerbsf\u00e4hige, klimaschonende und tolle Autos produzieren, so wie es die Geely-Gruppe mit Volvo",
+      "quote_text": "Wir sollten alle zehn Prozent mehr arbeiten, auch ohne Lohnausgleich.",
       "position": "neutral",
-      "reasoning": "Comments on working hours and Chinese investment in automotive, but does not address the combustion engine ban policy.",
-      "confidence": "medium",
+      "reasoning": "The provided quotes do not address the combustion engine ban policy, making his stance unclear.",
+      "confidence": "low",
       "reported_count": 1
     },
     {
@@ -9252,7 +9252,7 @@
       "speaker_role": "",
       "quote_text": "Selbst wenn die EU jetzt anfangen sollte, beim Verbrenner-Verbot ein wenig zur\u00fcckzurudern, so hat sie doch mit ihrer irrlichternden Politik bereits unermesslichen Schaden angerichtet",
       "position": "oppose",
-      "reasoning": "Criticizes the ban as having caused immense damage and expresses skepticism about any meaningful backtracking.",
+      "reasoning": "He condemns the EU's combustion engine ban policy as causing immense damage and argues that even a relaxed target does not help the industry.",
       "confidence": "high",
       "reported_count": 1
     },
@@ -9260,17 +9260,17 @@
       "speaker": "Mathias Miedreich",
       "speaker_role": "",
       "quote_text": "Wir m\u00fcssen wieder unsere unternehmerische Freiheit erlangen",
-      "position": "oppose",
-      "reasoning": "Advocates for regaining entrepreneurial freedom and criticizes current regulations, implying opposition to restrictive policies like the ban.",
-      "confidence": "high",
+      "position": "neutral",
+      "reasoning": "He calls for regaining entrepreneurial freedom and notes benefits of regulatory alignment with China, but does not explicitly support or oppose the ban.",
+      "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "Ciara Cook",
       "speaker_role": "",
-      "quote_text": "Es wird schwerer, die noch geplanten Batterieprojekte umzusetzen. Das Kapital wird nicht einfach \u00fcber Nacht verschwinden, aber es wird verschwinden, wenn Deutschland und die EU nicht gegensteuern",
-      "position": "neutral",
-      "reasoning": "Expresses concerns about battery projects needing support, but does not directly comment on the combustion engine ban.",
+      "quote_text": "Es wird schwerer, die noch geplanten Batterieprojekte umzusetzen.",
+      "position": "support",
+      "reasoning": "She warns that weakening support for battery projects will drive away capital, implying support for strong policies that promote the transition to electric vehicles.",
       "confidence": "medium",
       "reported_count": 1
     },
@@ -9278,18 +9278,18 @@
       "speaker": "Christian D\u00fcrr",
       "speaker_role": "",
       "quote_text": "Manchmal ist es kl\u00fcger, die Perspektive zu wechseln",
-      "position": "neutral",
-      "reasoning": "Makes general statements about changing perspectives and breaking stagnation, but no direct mention of the combustion engine ban.",
-      "confidence": "low",
+      "position": "oppose",
+      "reasoning": "As FDP parliamentary leader, he likely opposes technology bans and advocates for flexibility, though the provided quote is not directly on the policy.",
+      "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "Euan Graham",
       "speaker_role": "",
-      "quote_text": "Im Jahr 2025 hat sich der Schwerpunkt verlagert. Die Schwellenl\u00e4nder holen nicht l\u00e4nger auf, sondern f\u00fchren den Wandel hin zur Elektromobilit\u00e4t an",
+      "quote_text": "Im Jahr 2025 hat sich der Schwerpunkt verlagert. Die Schwellenl\u00e4nder holen nicht l\u00e4nger auf, sondern f\u00fchren den Wandel hin zur Elektromobilit\u00e4t an.",
       "position": "neutral",
-      "reasoning": "Observes the global shift to electric mobility led by emerging markets, but does not take a stance on the EU policy.",
-      "confidence": "medium",
+      "reasoning": "He observes that emerging countries are leading the shift to electromobility without expressing a stance on the EU policy.",
+      "confidence": "low",
       "reported_count": 1
     },
     {
@@ -9297,7 +9297,7 @@
       "speaker_role": "",
       "quote_text": "ein \"zentralen Baustein\" f\u00fcr die technologische Unabh\u00e4ngigkeit Europas",
       "position": "support",
-      "reasoning": "Supports the transition to electric vehicles as a key building block for European technological independence, though expresses concern about dependency on Asian suppliers.",
+      "reasoning": "He views EV battery production as a central element for European technological independence, implying support for the policy's shift away from combustion engines.",
       "confidence": "high",
       "reported_count": 1
     },
@@ -9306,7 +9306,7 @@
       "speaker_role": "",
       "quote_text": "\"Noch nie wurden wir derart belogen, noch nie wurden wir derartig betrogen\"",
       "position": "oppose",
-      "reasoning": "Expresses strong negative sentiment, suggesting deception and betrayal, likely referring to the policy or its proponents.",
+      "reasoning": "He expresses feelings of being lied to and betrayed, likely referring to the policy or its proponents, indicating strong opposition.",
       "confidence": "high",
       "reported_count": 1
     },
@@ -9315,7 +9315,7 @@
       "speaker_role": "",
       "quote_text": "Kann sich Deutschland den Klimaschutz nicht mehr leisten? Ganz im Gegenteil, findet Dirk Messner, der Chef des Umweltbundesamtes.",
       "position": "support",
-      "reasoning": "As head of the Federal Environment Agency, he defends climate protection and implies that Germany can afford it, aligning with policies like the combustion engine ban.",
+      "reasoning": "As head of the German Environment Agency, he argues for climate protection and against rollbacks, supporting strong measures like the combustion engine ban.",
       "confidence": "high",
       "reported_count": 1
     },
@@ -9324,17 +9324,17 @@
       "speaker_role": "",
       "quote_text": "Das Ding ist, dass man die Sache nicht mehr selbst in der Hand hat. Der Kontrollverlust macht einen fertig.",
       "position": "oppose",
-      "reasoning": "Describes a loss of control and crisis, likely due to imposed changes from the transition, indicating opposition to the policy.",
+      "reasoning": "He expresses loss of control and nostalgia for past crisis management, suggesting discomfort with the forced transition imposed by the policy.",
       "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "Peter Leibinger",
       "speaker_role": "",
-      "quote_text": "\"Wir stecken in der schwersten Wirtschaftskrise seit Gr\u00fcndung der Bundesrepublik.\"",
+      "quote_text": "\"Wir stecken in der schwersten Wirtschaftskrise seit Gr\u00fcndung der Bundesrepublik. Die Stimmung ist extrem negativ, teils regelrecht aggressiv.\"",
       "position": "oppose",
-      "reasoning": "Describes a severe economic crisis and structural decline, likely linked to the policy's impact on industry, indicating opposition.",
-      "confidence": "medium",
+      "reasoning": "He describes a severe economic crisis and structural decline, likely blaming policies like the combustion ban for negative impacts.",
+      "confidence": "high",
       "reported_count": 1
     },
     {
@@ -9342,25 +9342,25 @@
       "speaker_role": "",
       "quote_text": "\"Br\u00fcssel muss dringend nachsteuern\"",
       "position": "oppose",
-      "reasoning": "Criticizes EU Commission proposals and calls for adjustments, indicating she wants the policy weakened or changed.",
+      "reasoning": "She calls for Brussels to adjust the proposal and criticizes it, indicating she wants the policy weakened or changed.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Carsten Schneider",
       "speaker_role": "",
-      "quote_text": "\"Die Zukunft der Mobilit\u00e4t ist elektrisch. Elektroautos sind technisch \u00fcberlegen und werden immer besser und g\u00fcnstiger.\"",
+      "quote_text": "\"Die Zukunft der Mobilit\u00e4t ist elektrisch. Elektroautos sind technisch \u00fcberlegen und werden immer besser und g\u00fcnstiger. In zehn Jahren werden fast alle Neuwagen in Europa Elektroautos sein\"",
       "position": "support",
-      "reasoning": "Explicitly supports electric mobility and believes rules are becoming more flexible while maintaining climate goals, aligning with the policy.",
+      "reasoning": "He states that the future of mobility is electric and that EVs are superior, supporting the policy's direction despite mentioning flexibility.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Stefan Hartung",
       "speaker_role": "",
-      "quote_text": "Seine Aussagen sind deutlich kritischer als die gro\u00dfer Autohersteller.",
+      "quote_text": "\"Es kann nicht das Kernziel von Unternehmen sein, europ\u00e4ische Abh\u00e4ngigkeitsprobleme zu l\u00f6sen\"",
       "position": "oppose",
-      "reasoning": "Described as more critical than large automakers and questions whether companies should solve dependency problems, indicating opposition to prescriptive policies.",
+      "reasoning": "He is critical and argues that companies' core goal is not to solve European dependency problems, implying resistance to the policy's rationale.",
       "confidence": "medium",
       "reported_count": 1
     },
@@ -9369,7 +9369,7 @@
       "speaker_role": "",
       "quote_text": "Die dort postulierte Technologieoffenheit sei nicht mehr als ein Lippenbekenntnis",
       "position": "oppose",
-      "reasoning": "Criticizes the lack of true technology openness, suggesting she wants more flexibility and opposes a strict ban.",
+      "reasoning": "She criticizes the lack of true technology openness, implying the ban is too prescriptive and should allow more alternatives.",
       "confidence": "high",
       "reported_count": 1
     },
@@ -9378,8 +9378,8 @@
       "speaker_role": "",
       "quote_text": "Wir schaffen keine neuen Arbeitspl\u00e4tze, wenn wir uns den Klimaschutz verweigern.",
       "position": "support",
-      "reasoning": "Emphasizes that refusing climate protection won't create jobs, indicating support for climate policies like the ban, despite concerns about job retention.",
-      "confidence": "medium",
+      "reasoning": "He argues that climate protection creates jobs and supports the transition to EVs, aligning with the policy's goals.",
+      "confidence": "high",
       "reported_count": 1
     },
     {
@@ -9387,7 +9387,7 @@
       "speaker_role": "",
       "quote_text": "Es ist ein Fehler, seine begrenzten Ressourcen auf alle Antriebsarten zu verteilen",
       "position": "support",
-      "reasoning": "Advocates focusing limited resources on one drive type rather than spreading them, which aligns with the policy's focus on electric vehicles.",
+      "reasoning": "He advocates focusing limited resources on one drive type, likely electric, rather than spreading them, which aligns with the ban's focus on EVs.",
       "confidence": "medium",
       "reported_count": 1
     },
@@ -9395,44 +9395,44 @@
       "speaker": "Constantin Gall",
       "speaker_role": "",
       "quote_text": "Die Zahlen deuten auf den ersten Blick auf einen Elektro-Boom hin. Tats\u00e4chlich aber gleicht das starke Wachstum des Jahres 2025 nur den Absatzeinbruch des Jahres 2024 aus.",
-      "position": "neutral",
-      "reasoning": "Provides a neutral analysis of EV sales growth, without expressing a clear opinion on the policy itself.",
-      "confidence": "high",
+      "position": "oppose",
+      "reasoning": "He downplays the EV boom, suggesting the policy isn't as successful as claimed, indicating skepticism or opposition.",
+      "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "Nicole B\u00fcttner",
       "speaker_role": "",
       "quote_text": "Wollen wir m\u00fcndige B\u00fcrger sein oder B\u00fcrger, die nur noch betreut werden wollen?",
-      "position": "neutral",
-      "reasoning": "Asks a philosophical question about citizen autonomy vs. paternalism, which does not directly address the combustion engine ban.",
+      "position": "oppose",
+      "reasoning": "She questions paternalistic governance, likely opposing the ban as an imposition on citizen choice.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Gerhard Hillebrand",
       "speaker_role": "",
-      "quote_text": "Der ADAC h\u00e4lt die CO2-Bepreisung f\u00fcr ein richtiges Instrument, um die Klimaschutzziele zu erreichen.",
-      "position": "neutral",
-      "reasoning": "Supports CO2 pricing as an instrument for climate goals but does not explicitly address the combustion engine ban, making his stance unclear.",
-      "confidence": "medium",
+      "quote_text": "Der ADAC h\u00e4lt die CO2-Bepreisung f\u00fcr ein richtiges Instrument, um die Klimaschutzziele zu erreichen. Die Leute brauchen den Anreiz, um auf klimaschonende Alternativen zum Diesel und Benziner umzusteig",
+      "position": "oppose",
+      "reasoning": "As ADAC representative, he supports CO2 pricing as an incentive rather than a ban, preferring market mechanisms over prescriptive bans.",
+      "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Dr. Michael Haberland",
       "speaker_role": "",
-      "quote_text": "Man kann Menschen nicht umerziehen, indem man ihnen das Leben k\u00fcnstlich verteuert.",
+      "quote_text": "Man kann Menschen nicht umerziehen, indem man ihnen das Leben k\u00fcnstlich verteuert. Wer Mobilit\u00e4t wie unseren hocheffizienten Verbrennungsmotor derart verteufelt, verliert die Akzeptanz der Menschen.",
       "position": "oppose",
-      "reasoning": "Criticizes the demonization of efficient combustion engines and argues against re-education through artificial cost increases, clearly opposing the policy.",
+      "reasoning": "He explicitly criticizes making life artificially expensive and demonizing combustion engines, rejecting the ban's approach.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Michael Theurer",
       "speaker_role": "",
-      "quote_text": "Wir sollten nicht weitere drei Jahre f\u00fcr dieses Land vergeuden",
-      "position": "neutral",
-      "reasoning": "Statement about not wasting three years is ambiguous; could be interpreted as wanting faster action or opposing the policy as a waste.",
+      "quote_text": "\"Wir sollten nicht weitere drei Jahre f\u00fcr dieses Land vergeuden\"",
+      "position": "oppose",
+      "reasoning": "He speaks of not wasting three years, likely criticizing policy delays or inefficiencies, suggesting opposition to the current approach.",
       "confidence": "low",
       "reported_count": 1
     },
@@ -9441,25 +9441,25 @@
       "speaker_role": "",
       "quote_text": "Wenn nicht alles l\u00e4uft, einfach nur Stellen abzubauen, ist das entt\u00e4uschend.",
       "position": "neutral",
-      "reasoning": "Expresses disappointment about job cuts but does not directly comment on the policy itself, making his stance unclear.",
-      "confidence": "medium",
+      "reasoning": "He expresses disappointment about job cuts if things don't run well, but does not directly address the ban, making his stance unclear.",
+      "confidence": "low",
       "reported_count": 1
     },
     {
       "speaker": "Andreas Koelpin",
       "speaker_role": "",
-      "quote_text": "Ich schaue in die Gesichter meiner Kollegen und sehe Perspektivlosigkeit",
+      "quote_text": "Ich bin jetzt seit 25 Jahren im Unternehmen, so etwas habe ich noch nicht erlebt. Ich schaue in die Gesichter meiner Kollegen und sehe Perspektivlosigkeit",
       "position": "oppose",
-      "reasoning": "Describes a dire situation and lack of perspective in the company, likely due to the transition forced by the policy, indicating opposition.",
-      "confidence": "medium",
+      "reasoning": "He describes unprecedented hopelessness among colleagues, likely due to transition pressures from the policy.",
+      "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Michael G\u00f6rg",
       "speaker_role": "",
-      "quote_text": "Ich vermisse ein Zeichen vom Management, dass auch dort verzichtet wird",
+      "quote_text": "Ich vermisse ein Zeichen vom Management, dass auch dort verzichtet wird, damit das Unternehmen durch die schwierigen Zeiten kommt und m\u00f6glichst viele Mitarbeiter an Bord bleiben k\u00f6nnen.",
       "position": "oppose",
-      "reasoning": "Criticizes management during difficult times, likely related to transition pressures, suggesting opposition to policies causing such hardships.",
+      "reasoning": "He misses management sacrifice to keep employees, suggesting the policy is causing hardship and opposition to its impacts.",
       "confidence": "medium",
       "reported_count": 1
     },
@@ -9467,18 +9467,18 @@
       "speaker": "Jens Spahn",
       "speaker_role": "",
       "quote_text": "Die Corona-Schutzimpfung war nicht sicher, nicht effektiv und hat die Erwartungen nie erf\u00fcllt - und er wusste es.",
-      "position": "neutral",
-      "reasoning": "Quote is about COVID vaccines, not related to the combustion engine ban, so no clear stance can be inferred.",
-      "confidence": "low",
+      "position": "oppose",
+      "reasoning": "His quote about COVID vaccine misinformation suggests distrust in government mandates, likely extending to the combustion ban.",
+      "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "Helmut Schmidt",
       "speaker_role": "",
       "quote_text": "\"Lieber f\u00fcnf Prozent Inflation als f\u00fcnf Prozent Arbeitslosigkeit\"",
-      "position": "neutral",
-      "reasoning": "General economic statement about inflation vs. unemployment, not directly addressing the combustion engine ban.",
-      "confidence": "high",
+      "position": "oppose",
+      "reasoning": "His historical quote prioritizes low unemployment over low inflation, implying he would oppose policies that threaten jobs, like a rapid transition.",
+      "confidence": "low",
       "reported_count": 1
     },
     {
@@ -9486,7 +9486,7 @@
       "speaker_role": "",
       "quote_text": "Diese Einigung auf EU-Ebene sogar als \"Selbstaufgabe Europas\".",
       "position": "oppose",
-      "reasoning": "Calls the EU agreement \"self-abandonment of Europe,\" indicating strong opposition to the policy.",
+      "reasoning": "He calls the EU agreement \"self-abandonment of Europe,\" clearly opposing the policy.",
       "confidence": "high",
       "reported_count": 1
     },
@@ -9495,7 +9495,7 @@
       "speaker_role": "",
       "quote_text": "\"Ich setze darauf, dass es im weiteren Verfahren zu erheblichen \u00c4nderungen an dem Kommissionsvorschlag kommen wird.\"",
       "position": "oppose",
-      "reasoning": "Hopes for significant changes to the Commission proposal, indicating he does not support the policy as-is and wants it weakened.",
+      "reasoning": "He hopes for substantial changes to the proposal, indicating opposition to the current form of the policy.",
       "confidence": "high",
       "reported_count": 1
     },
@@ -9504,169 +9504,169 @@
       "speaker_role": "",
       "quote_text": "\"Braucht man wirklich einen Spurhalteassistenten in Autos, die 95 Prozent ihrer Zeit in der Stadt fahren?\"",
       "position": "neutral",
-      "reasoning": "Question about the need for driver assistance systems in city cars does not address the combustion engine ban.",
-      "confidence": "high",
+      "reasoning": "His quote is about specific car features like lane-keeping assist, not directly about the combustion ban, making his stance unclear.",
+      "confidence": "low",
       "reported_count": 1
     },
     {
       "speaker": "Konstantin Sixt",
       "speaker_role": "",
-      "quote_text": "\"Nachfrage folgt der Schnelladeinfrastruktur, nicht umgekehrt.\"",
+      "quote_text": "\"Aus unserer Sicht, gest\u00fctzt durch Studien und Kundenumfragen, folgt eine erfolgreiche Transformation einem klaren Prinzip: Nachfrage folgt der Schnelladeinfrastruktur, nicht umgekehrt.\"",
       "position": "oppose",
-      "reasoning": "Argues that demand follows infrastructure, not vice versa, suggesting the policy is premature or misdirected.",
-      "confidence": "medium",
+      "reasoning": "He argues that infrastructure should precede demand, implying the ban is premature without adequate charging infrastructure.",
+      "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Alexander Sixt",
       "speaker_role": "",
-      "quote_text": "Oder anders: 80 Prozent der gesamten EU ist Ladew\u00fcste.",
+      "quote_text": "\"Oder anders: 80 Prozent der gesamten EU ist Ladew\u00fcste.\"",
       "position": "oppose",
-      "reasoning": "Criticizes lack of charging infrastructure, implying the ban is premature and infeasible.",
+      "reasoning": "Points out lack of charging infrastructure in the EU, implying the ban is premature and impractical.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Siegfried de Vries",
       "speaker_role": "",
-      "quote_text": "dass die Neuregelung den Herstellern dringend ben\u00f6tigte Luft verschafft, um den \u00dcbergang zur E-Mobilit\u00e4t finanziell abzusichern.",
+      "quote_text": "\"dass die Neuregelung den Herstellern dringend ben\u00f6tigte Luft verschafft, um den \u00dcbergang zur E-Mobilit\u00e4t finanziell abzusichern.\"",
       "position": "support",
-      "reasoning": "Views the new regulation as providing necessary breathing room for manufacturers to financially secure the transition to e-mobility.",
-      "confidence": "high",
+      "reasoning": "States that the new regulation provides manufacturers with needed breathing room to finance the transition to e-mobility, indicating support for the policy's role in facilitating the shift.",
+      "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "Martin Kaiser",
       "speaker_role": "",
-      "quote_text": "dass der Bedarf an Bio-Fuels f\u00fcr nur 10 Prozent der Flotte unrealistische Mengen an landwirtschaftlicher Fl\u00e4che verschlingen w\u00fcrde.",
-      "position": "oppose",
-      "reasoning": "Criticizes the use of biofuels as unrealistic due to excessive land use, likely opposing a policy that includes such exceptions.",
-      "confidence": "medium",
+      "quote_text": "\"dass der Bedarf an Bio-Fuels f\u00fcr nur 10 Prozent der Flotte unrealistische Mengen an landwirtschaftlicher Fl\u00e4che verschlingen w\u00fcrde.\"",
+      "position": "support",
+      "reasoning": "Criticizes biofuels as unrealistic due to land use, implying support for a full transition to electric vehicles and a strict ban on combustion engines.",
+      "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Apostolos Tzitzikostas",
       "speaker_role": "",
-      "quote_text": "das Signal aus Br\u00fcssel, dass die Europ\u00e4ische Kommission nicht stur an einst beschlossenen Regeln festh\u00e4lt, sondern auf neue Realit\u00e4ten reagiert",
-      "position": "support",
-      "reasoning": "Praises the European Commission for showing flexibility and adapting to new realities, indicating support for the policy's adaptive approach.",
+      "quote_text": "\"das Signal aus Br\u00fcssel, dass die Europ\u00e4ische Kommission nicht stur an einst beschlossenen Regeln festh\u00e4lt, sondern auf neue Realit\u00e4ten reagiert\"",
+      "position": "oppose",
+      "reasoning": "Praises the European Commission for being flexible and not sticking rigidly to rules, indicating a preference for adaptable policies over a strict ban.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Michael Lohscheller",
       "speaker_role": "",
-      "quote_text": "Ein 2035 gebautes Auto mit Verbrennungsmotor k\u00f6nnte auch zwanzig Jahre sp\u00e4ter noch die Umwelt verschmutzen. Die Abkehr von einem klaren 100-prozentigen Null-Emissions-Ziel hin zu einem 90-prozentigen",
-      "position": "oppose",
-      "reasoning": "Criticizes the move from a 100% zero-emission target to a 90% target, arguing for a stricter ban.",
+      "quote_text": "\"Ein 2035 gebautes Auto mit Verbrennungsmotor k\u00f6nnte auch zwanzig Jahre sp\u00e4ter noch die Umwelt verschmutzen. Die Abkehr von einem klaren 100-prozentigen Null-Emissions-Ziel hin zu einem 90-prozentigen\"",
+      "position": "support",
+      "reasoning": "Criticizes the move away from a 100% zero-emission goal, advocating for a stricter ban on combustion engines.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Roman Haider",
       "speaker_role": "",
-      "quote_text": "Die Kommission stellt fest, dass Unternehmen zu wenige Elektroautos kaufen. Also werden Unternehmen jetzt gezwungen, E-Autos zu kaufen. Die Kommission stellt fest, dass wir B\u00fcrger lieber Benziner, Die",
+      "quote_text": "\"Die Kommission stellt fest, dass Unternehmen zu wenige Elektroautos kaufen. Also werden Unternehmen jetzt gezwungen, E-Autos zu kaufen. Die Kommission stellt fest, dass wir B\u00fcrger lieber Benziner, Die\"",
       "position": "oppose",
-      "reasoning": "Criticizes the policy for forcing companies to buy electric vehicles, viewing it as coercive and unpopular.",
+      "reasoning": "Criticizes the Commission for forcing companies to buy electric cars, implying opposition to coercive measures in the policy.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Roloff",
       "speaker_role": "",
-      "quote_text": "ohne \"Weitblick und Konzept\" zu agieren",
+      "quote_text": "\"ohne \"Weitblick und Konzept\" zu agieren\"",
       "position": "oppose",
-      "reasoning": "Accuses the policy of being implemented without foresight and a coherent concept.",
-      "confidence": "high",
+      "reasoning": "Describes the policy as acting without foresight and concept, implying opposition due to poor planning.",
+      "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "Klaus Holetscheck",
       "speaker_role": "",
-      "quote_text": "Das sieht eher auf den ersten Blick nach einer Scheinl\u00f6sung aus, die lediglich B\u00fcrokratie mit sich bringt. Hier werden bewusst Deutschland und die deutsche Industrie und deutsche Unternehmen benachtei",
+      "quote_text": "\"Das sieht eher auf den ersten Blick nach einer Scheinl\u00f6sung aus, die lediglich B\u00fcrokratie mit sich bringt. Hier werden bewusst Deutschland und die deutsche Industrie und deutsche Unternehmen benachtei\"",
       "position": "oppose",
-      "reasoning": "Describes the policy as a pseudo-solution that adds bureaucracy and disadvantages German industry.",
+      "reasoning": "Calls the policy a sham solution that brings bureaucracy and disadvantages German industry, clearly opposing it.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Katharina Schulze",
       "speaker_role": "",
-      "quote_text": "Der Grund, warum unsere Unternehmen straucheln, ist nicht das Verbrenner-Aus, sondern das st\u00e4ndige Hin- und Hergeblinke von CDU und CSU",
+      "quote_text": "\"Der Grund, warum unsere Unternehmen straucheln, ist nicht das Verbrenner-Aus, sondern das st\u00e4ndige Hin- und Hergeblinke von CDU und CSU\"",
       "position": "support",
-      "reasoning": "Argues that companies' struggles are due to political uncertainty, not the combustion engine ban, implying support for the policy.",
+      "reasoning": "Defends the ban, arguing that the problem is political instability rather than the policy itself, indicating support.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Felix Banaszak",
       "speaker_role": "",
-      "quote_text": "K\u00fcnftig muss jeder Autohersteller in Kleinstarbeit die Menge von eingebautem gr\u00fcnen Stahl und den Einsatz von E-Fuels vorrechnen und nachweisen k\u00f6nnen - wir wissen alle: Das wird so nicht klappen",
+      "quote_text": "\"K\u00fcnftig muss jeder Autohersteller in Kleinstarbeit die Menge von eingebautem gr\u00fcnen Stahl und den Einsatz von E-Fuels vorrechnen und nachweisen k\u00f6nnen - wir wissen alle: Das wird so nicht klappen\"",
       "position": "oppose",
-      "reasoning": "Criticizes the bureaucratic reporting requirements for green steel and e-fuels, claiming they are unworkable.",
+      "reasoning": "Criticizes the bureaucratic burden of proving green steel and e-fuels usage, stating it won't work, implying opposition due to impracticality.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Horst Ott",
       "speaker_role": "",
-      "quote_text": "Wir ben\u00f6tigen die Einnahmen durch Verbrenner, um den aktuell zu langsamen Hochlauf der E-Mobilit\u00e4t zu finanzieren",
+      "quote_text": "\"Wir ben\u00f6tigen die Einnahmen durch Verbrenner, um den aktuell zu langsamen Hochlauf der E-Mobilit\u00e4t zu finanzieren\"",
       "position": "oppose",
-      "reasoning": "Argues that revenue from combustion engines is needed to finance the slow ramp-up of e-mobility, implying the ban would cut off essential funding.",
+      "reasoning": "Argues that revenue from combustion engines is needed to finance the e-mobility transition, implying opposition to a ban that would cut off that revenue.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Ferdinand Dudenh\u00f6ffer",
       "speaker_role": "",
-      "quote_text": "Wenn man 2030 sieht, dass 90 Prozent nicht zu schaffen ist, wird man wieder weich werden in Br\u00fcssel und dem Druck nachgeben und dann auf vielleicht 80 Prozent gehen oder 90 Prozent f\u00fcr 2040 einfordern",
+      "quote_text": "\"Wenn man 2030 sieht, dass 90 Prozent nicht zu schaffen ist, wird man wieder weich werden in Br\u00fcssel und dem Druck nachgeben und dann auf vielleicht 80 Prozent gehen oder 90 Prozent f\u00fcr 2040 einfordern\"",
       "position": "oppose",
-      "reasoning": "Predicts that the targets will be weakened because they are unrealistic, implying the policy is too ambitious and will fail.",
-      "confidence": "high",
+      "reasoning": "Predicts that the CO2 goals will be softened due to feasibility issues, suggesting he views the policy as too strict and unrealistic.",
+      "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "Barbara Resch",
       "speaker_role": "",
-      "quote_text": "Der \"Hochlauf der E-Mobilit\u00e4t und die Neuerfindung des Autos 'Made in Germany' wurden zu lange verschleppt\", sagte Resch.",
+      "quote_text": "\"Der \"Hochlauf der E-Mobilit\u00e4t und die Neuerfindung des Autos 'Made in Germany' wurden zu lange verschleppt\", sagte Resch.\"",
       "position": "support",
-      "reasoning": "States that the ramp-up of e-mobility has been delayed too long, implying the policy is needed to accelerate the transition.",
+      "reasoning": "States that the ramp-up of e-mobility was delayed too long, implying support for policies that accelerate the transition, such as the ban.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Martin Maier",
       "speaker_role": "",
-      "quote_text": "Weil es ein preisg\u00fcnstiges Fahrzeug werden wird, hochperformant, attraktiv, das wird sich von alleine regeln",
+      "quote_text": "\"Weil es ein preisg\u00fcnstiges Fahrzeug werden wird, hochperformant, attraktiv, das wird sich von alleine regeln\"",
       "position": "oppose",
-      "reasoning": "Suggests that market forces will lead to attractive electric vehicles naturally, implying the ban is unnecessary.",
-      "confidence": "low",
+      "reasoning": "Believes market forces will drive adoption of electric vehicles without a ban, implying opposition to the policy as unnecessary.",
+      "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Mercedes-Benz",
       "speaker_role": "",
-      "quote_text": "Schritt in die richtige Richtung hin zu mehr Flexibilit\u00e4t f\u00fcr uns als Hersteller und hin zu der notwendigen Technologieneutralit\u00e4t",
+      "quote_text": "\"Schritt in die richtigen Richtung hin zu mehr Flexibilit\u00e4t f\u00fcr uns als Hersteller und hin zu der notwendigen Technologieneutralit\u00e4t\"",
       "position": "oppose",
-      "reasoning": "Calls for more flexibility and technology neutrality, indicating opposition to a rigid, prescriptive ban.",
+      "reasoning": "Advocates for flexibility and technology neutrality, indicating opposition to a prescriptive ban on combustion engines.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Volkswagen",
       "speaker_role": "",
-      "quote_text": "Die Kommission macht mit ihrem Vorschlag deutlich: Elektromobilit\u00e4t ist die f\u00fchrende Technologie der Zukunft.",
-      "position": "neutral",
-      "reasoning": "Acknowledges the Commission's emphasis on electromobility as the leading future technology, but does not explicitly support or oppose the ban.",
+      "quote_text": "\"Die Kommission macht mit ihrem Vorschlag deutlich: Elektromobilit\u00e4t ist die f\u00fchrende Technologie der Zukunft.\"",
+      "position": "support",
+      "reasoning": "Endorses the Commission's proposal that electromobility is the leading technology of the future, indicating support for the policy's direction.",
       "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "William Todts",
       "speaker_role": "",
-      "quote_text": "\"Ich hoffe, dass sie, wenn sie ein wenig von dem bekommen, was sie wollen, aufh\u00f6ren werden, die politische Debatte zu vergiften\".",
+      "quote_text": "\"Ich hoffe, dass sie, wenn sie ein wenig von dem bekommen, was sie wollen, aufh\u00f6ren werden, die politische Debatte zu vergiften\"",
       "position": "support",
-      "reasoning": "Hopes that opponents will stop poisoning the debate if given some concessions, implying support for the policy while seeking compromise.",
+      "reasoning": "As an environmental NGO leader, he likely supports the ban, and his quote about calming the debate after concessions suggests he backs the policy overall.",
       "confidence": "medium",
       "reported_count": 1
     },
@@ -9675,70 +9675,70 @@
       "speaker_role": "",
       "quote_text": "\"Wir ebnen den Weg f\u00fcr eine florierende europ\u00e4ische Automobilindustrie und sichern Millionen von Arbeitspl\u00e4tzen in der gesamten EU\"",
       "position": "support",
-      "reasoning": "Claims the policy paves the way for a flourishing automotive industry and secures millions of jobs, indicating strong support.",
+      "reasoning": "States that the policy paves the way for a flourishing automotive industry and secures jobs, indicating strong support.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Winfried Kretschmann",
       "speaker_role": "",
-      "quote_text": "Man m\u00fcsse \"endlich diese elende Antriebsdebatte beenden, die die Leute verunsichert und beim Autokauf z\u00f6gern l\u00e4sst\"",
-      "position": "neutral",
-      "reasoning": "Wants to end the drivetrain debate that causes uncertainty, but it is unclear whether he supports the ban or a compromise.",
-      "confidence": "low",
+      "quote_text": "\"Man m\u00fcsse \"endlich diese elende Antriebsdebatte beenden, die die Leute verunsichert und beim Autokauf z\u00f6gern l\u00e4sst\"\"",
+      "position": "support",
+      "reasoning": "Argues for ending the drivetrain debate to reduce consumer uncertainty, which a clear ban could achieve, indicating support.",
+      "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Markus Ferber",
       "speaker_role": "",
-      "quote_text": "\"Anders als \u00f6ffentlich wahrgenommen\" umfasse die geplante Neuregelung \"nicht nur Mietwagen und Firmenflotten\", sondern auch \"die privat geleasten Fahrzeuge in den Flotten der Autobauer\"",
-      "position": "neutral",
-      "reasoning": "Clarifies the scope of the regulation without expressing an opinion for or against the policy.",
-      "confidence": "high",
+      "quote_text": "\"Anders als \u00f6ffentlich wahrgenommen\" umfasse die geplante Neuregelung \"nicht nur Mietwagen und Firmenflotten\", sondern auch \"die privat geleasten Fahrzeuge in den Flotten der Autobauer\"\"",
+      "position": "oppose",
+      "reasoning": "Points out the broad scope of the regulation, likely as a criticism given his party's stance, indicating opposition.",
+      "confidence": "medium",
       "reported_count": 1
     },
     {
       "speaker": "Thomas Schmall",
       "speaker_role": "",
-      "quote_text": "Mit der Zellfabrik in Salzgitter zeigen wir, dass wir auch in Europa innovative Spitzentechnologie entwickeln und industrialisieren k\u00f6nnen",
+      "quote_text": "\"Mit der Zellfabrik in Salzgitter zeigen wir, dass wir auch in Europa innovative Spitzentechnologie entwickeln und industrialisieren k\u00f6nnen\"",
       "position": "support",
-      "reasoning": "Highlights investment in battery cell production as evidence of European innovation in EV technology, aligning with the policy's goals.",
-      "confidence": "medium",
+      "reasoning": "Highlights battery cell production in Europe, showing commitment to EV technology and implying support for the transition driven by the ban.",
+      "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Patrick Hummel",
       "speaker_role": "",
-      "quote_text": "Volkswagen ist in Europa the last man standing",
+      "quote_text": "\"Volkswagen ist in Europa the last man standing\"",
       "position": "neutral",
-      "reasoning": "Makes a factual statement about Volkswagen's market position without commenting on the policy.",
-      "confidence": "high",
+      "reasoning": "The quote is about Volkswagen's market position and does not directly address the policy, making the stance unclear.",
+      "confidence": "low",
       "reported_count": 1
     },
     {
       "speaker": "Pedro Sanchez",
       "speaker_role": "",
-      "quote_text": "jede zus\u00e4tzliche Aufweichung der CO-Ziele drohe Investitionen in die Modernisierung auszubremsen, weil die Nachfrage nach Elektroautos sinke, und gef\u00e4hrde so die Wettbewerbsf\u00e4higkeit von Autoherstelle",
+      "quote_text": "\"jede zus\u00e4tzliche Aufweichung der CO-Ziele drohe Investitionen in die Modernisierung auszubremsen, weil die Nachfrage nach Elektroautos sinke, und gef\u00e4hrde so die Wettbewerbsf\u00e4higkeit von Autoherstelle\"",
       "position": "support",
-      "reasoning": "Argues against weakening CO2 targets, stating that it would slow investment and harm competitiveness, indicating support for strong targets.",
+      "reasoning": "Argues against weakening CO2 goals, stating that it would threaten investments and competitiveness, indicating support for strict targets.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Dariusz Jo\u0144ski",
       "speaker_role": "",
-      "quote_text": "So w\u00fcrden insbesondere kleine und mittlere Unternehmen und Einzelunternehmer durch einen Kaufzwang in ihrer Liquidit\u00e4t bedroht",
+      "quote_text": "\"So w\u00fcrden insbesondere kleine und mittlere Unternehmen und Einzelunternehmer durch einen Kaufzwang in ihrer Liquidit\u00e4t bedroht\"",
       "position": "oppose",
-      "reasoning": "Claims that a purchase mandate threatens the liquidity of small and medium-sized enterprises, opposing the policy.",
+      "reasoning": "States that a purchase mandate threatens the liquidity of small and medium enterprises, indicating opposition due to negative economic impact.",
       "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Sigmar Gabriel",
       "speaker_role": "",
-      "quote_text": "Diese Regierung packt nicht die Themen an, die deutsche Unternehmen besch\u00e4ftigen und die sie daran hindern, wieder in Deutschland zu investieren.",
+      "quote_text": "\"Diese Regierung packt nicht die Themen an, die deutsche Unternehmen besch\u00e4ftigen und die sie daran hindern, wieder in Deutschland zu investieren.\"",
       "position": "oppose",
-      "reasoning": "Criticizes the government for not addressing issues that hinder investment, likely including the combustion engine ban.",
+      "reasoning": "Criticizes the government for not addressing issues that concern companies, likely including the ban, implying opposition.",
       "confidence": "medium",
       "reported_count": 1
     },
@@ -9747,7 +9747,7 @@
       "speaker_role": "",
       "quote_text": "Deutschland zwingt sich in die Deindustrialisierung",
       "position": "oppose",
-      "reasoning": "He criticizes the policy as forcing Germany into deindustrialization, indicating he views it as harmful and likely wants it removed or weakened.",
+      "reasoning": "He criticizes the combustion engine ban for forcing Germany into deindustrialization, implying it should be removed or weakened to protect industry.",
       "confidence": "high",
       "reported_count": 1
     },
@@ -9756,7 +9756,7 @@
       "speaker_role": "",
       "quote_text": "Wir sollten mehr europ\u00e4isch denken",
       "position": "neutral",
-      "reasoning": "His statement about thinking more European is vague and does not directly address the combustion engine ban, making his stance unclear.",
+      "reasoning": "His statement about thinking more European is vague and does not directly address the policy; it could imply support for coordinated EU action or criticism of unilateral measures, but the stance on the ban itself is unclear.",
       "confidence": "low",
       "reported_count": 1
     },
@@ -9765,16 +9765,16 @@
       "speaker_role": "",
       "quote_text": "Deutschland sei aktuell nicht mehr konkurrenzf\u00e4hig.",
       "position": "oppose",
-      "reasoning": "He claims Germany is no longer competitive, likely implying that policies like the combustion engine ban harm competitiveness, suggesting opposition.",
-      "confidence": "medium",
+      "reasoning": "He links Germany's lack of competitiveness to policies like the combustion engine ban, suggesting opposition to such regulations that harm economic competitiveness.",
+      "confidence": "high",
       "reported_count": 1
     },
     {
       "speaker": "Oliver Risken",
       "speaker_role": "",
       "quote_text": "Mit dem heristo Zukunftsdialog Mittelstand holen wir Wirtschaft und Politik aus der Komfortzone und an einen Tisch. Die Lage in Deutschland ist zu ernst f\u00fcr Business as usual. Wir brauchen mutige Ents",
-      "position": "support",
-      "reasoning": "He calls for brave decisions and moving away from business as usual, which could align with supporting transformative policies like the combustion engine ban, though not explicitly stated.",
+      "position": "neutral",
+      "reasoning": "His call for dialogue and bold decisions due to Germany's serious situation does not specifically reference the combustion engine ban, making his position on the policy itself unclear.",
       "confidence": "low",
       "reported_count": 1
     }
@@ -11182,12 +11182,6 @@
     },
     {
       "from": "Hans-Ulrich R\u00fclke",
-      "to": "Fdp",
-      "stance": "support",
-      "quote": "Dieses Land braucht eine b\u00fcrgerliche Landesregierung ohne die Gr\u00fcnen. Eine Regierung ohne die Gr\u00fcnen ist aber nur mit der FDP m\u00f6glich."
-    },
-    {
-      "from": "Hans-Ulrich R\u00fclke",
       "to": "Gr\u00fcne",
       "stance": "support",
       "quote": "Dieses Land braucht eine b\u00fcrgerliche Landesregierung ohne die Gr\u00fcnen. Eine Regierung ohne die Gr\u00fcnen ist aber nur mit der FDP m\u00f6glich."
@@ -11195,6 +11189,12 @@
     {
       "from": "Hans-Ulrich R\u00fclke",
       "to": "Gr\u00fcnen",
+      "stance": "support",
+      "quote": "Dieses Land braucht eine b\u00fcrgerliche Landesregierung ohne die Gr\u00fcnen. Eine Regierung ohne die Gr\u00fcnen ist aber nur mit der FDP m\u00f6glich."
+    },
+    {
+      "from": "Hans-Ulrich R\u00fclke",
+      "to": "Fdp",
       "stance": "support",
       "quote": "Dieses Land braucht eine b\u00fcrgerliche Landesregierung ohne die Gr\u00fcnen. Eine Regierung ohne die Gr\u00fcnen ist aber nur mit der FDP m\u00f6glich."
     },
@@ -11224,12 +11224,6 @@
     },
     {
       "from": "Hans-Ulrich R\u00fclke",
-      "to": "Saskia Esken",
-      "stance": "oppose",
-      "quote": "Wer B\u00e4rbel Bas kennenlernt, wei\u00df, was er an Saskia Esken hatte."
-    },
-    {
-      "from": "Hans-Ulrich R\u00fclke",
       "to": "B\u00e4rbel Bas",
       "stance": "oppose",
       "quote": "Wer B\u00e4rbel Bas kennenlernt, wei\u00df, was er an Saskia Esken hatte."
@@ -11248,15 +11242,15 @@
     },
     {
       "from": "Hans-Ulrich R\u00fclke",
-      "to": "Ember",
+      "to": "Saskia Esken",
       "stance": "oppose",
-      "quote": "den real existierenden Gr\u00fcnismus in Baden-W\u00fcrttemberg"
+      "quote": "Wer B\u00e4rbel Bas kennenlernt, wei\u00df, was er an Saskia Esken hatte."
     },
     {
       "from": "Hans-Ulrich R\u00fclke",
-      "to": "China",
+      "to": "Ember",
       "stance": "oppose",
-      "quote": "Es ist eine ideologische Aussage der Gr\u00fcnen, dass man an der Entwicklung der chinesischen Autoindustrie sehen k\u00f6nne, dass die Zukunft der Autoindustri"
+      "quote": "den real existierenden Gr\u00fcnismus in Baden-W\u00fcrttemberg"
     },
     {
       "from": "Hans-Ulrich R\u00fclke",
@@ -11266,7 +11260,7 @@
     },
     {
       "from": "Hans-Ulrich R\u00fclke",
-      "to": "Eu",
+      "to": "Man",
       "stance": "oppose",
       "quote": "Es ist eine ideologische Aussage der Gr\u00fcnen, dass man an der Entwicklung der chinesischen Autoindustrie sehen k\u00f6nne, dass die Zukunft der Autoindustri"
     },
@@ -11278,7 +11272,13 @@
     },
     {
       "from": "Hans-Ulrich R\u00fclke",
-      "to": "Man",
+      "to": "Eu",
+      "stance": "oppose",
+      "quote": "Es ist eine ideologische Aussage der Gr\u00fcnen, dass man an der Entwicklung der chinesischen Autoindustrie sehen k\u00f6nne, dass die Zukunft der Autoindustri"
+    },
+    {
+      "from": "Hans-Ulrich R\u00fclke",
+      "to": "China",
       "stance": "oppose",
       "quote": "Es ist eine ideologische Aussage der Gr\u00fcnen, dass man an der Entwicklung der chinesischen Autoindustrie sehen k\u00f6nne, dass die Zukunft der Autoindustri"
     },
@@ -11350,13 +11350,13 @@
     },
     {
       "from": "J\u00fcrgen Resch",
-      "to": "Lg",
+      "to": "Dieter Zetsche",
       "stance": "oppose",
       "quote": "Ich werfe Dieter Zetsche pers\u00f6nlich K\u00f6rperverletzung mit Todesfolge in vielen Tausend F\u00e4llen vor"
     },
     {
       "from": "J\u00fcrgen Resch",
-      "to": "Dieter Zetsche",
+      "to": "Lg",
       "stance": "oppose",
       "quote": "Ich werfe Dieter Zetsche pers\u00f6nlich K\u00f6rperverletzung mit Todesfolge in vielen Tausend F\u00e4llen vor"
     },
@@ -11404,7 +11404,7 @@
     },
     {
       "from": "Dr. Michael Haberland",
-      "to": "Merz",
+      "to": "Man",
       "stance": "oppose",
       "quote": "Man kann Menschen nicht umerziehen, indem man ihnen das Leben k\u00fcnstlich verteuert. Wer Mobilit\u00e4t wie unseren hocheffizienten Verbrennungsmotor derart "
     },
@@ -11416,19 +11416,19 @@
     },
     {
       "from": "Dr. Michael Haberland",
-      "to": "Man",
+      "to": "Merz",
       "stance": "oppose",
       "quote": "Man kann Menschen nicht umerziehen, indem man ihnen das Leben k\u00fcnstlich verteuert. Wer Mobilit\u00e4t wie unseren hocheffizienten Verbrennungsmotor derart "
     },
     {
       "from": "Friedrich Merz",
-      "to": "Merz",
+      "to": "Friedrich Merz",
       "stance": "neutral",
       "quote": "Noch am ersten Amtstag wollte Friedrich Merz die Grenzen schlie\u00dfen."
     },
     {
       "from": "Friedrich Merz",
-      "to": "Friedrich Merz",
+      "to": "Merz",
       "stance": "neutral",
       "quote": "Noch am ersten Amtstag wollte Friedrich Merz die Grenzen schlie\u00dfen."
     },
@@ -11446,13 +11446,13 @@
     },
     {
       "from": "Friedrich Merz",
-      "to": "Bundesregierung",
+      "to": "Maz",
       "stance": "support",
       "quote": "Es ist gut, dass die Kommission nach dem klaren Signal der Bundesregierung jetzt die Regulierung im Automobilbereich \u00f6ffnet. Mehr Technologieoffenheit"
     },
     {
       "from": "Friedrich Merz",
-      "to": "Maz",
+      "to": "Bundesregierung",
       "stance": "support",
       "quote": "Es ist gut, dass die Kommission nach dem klaren Signal der Bundesregierung jetzt die Regulierung im Automobilbereich \u00f6ffnet. Mehr Technologieoffenheit"
     },
@@ -11476,13 +11476,13 @@
     },
     {
       "from": "Friedrich Merz",
-      "to": "Eu",
+      "to": "Man",
       "stance": "neutral",
       "quote": "Technologieoffenheit beim Auto - und versprechen gleichzeitig Klimaneutralit\u00e4t bis 2050."
     },
     {
       "from": "Friedrich Merz",
-      "to": "Man",
+      "to": "Eu",
       "stance": "neutral",
       "quote": "Technologieoffenheit beim Auto - und versprechen gleichzeitig Klimaneutralit\u00e4t bis 2050."
     },
@@ -11662,12 +11662,6 @@
     },
     {
       "from": "Dirk Messner",
-      "to": "Umweltbundesamt",
-      "stance": "support",
-      "quote": "Kann sich Deutschland den Klimaschutz nicht mehr leisten? Ganz im Gegenteil, findet Dirk Messner, der Chef des Umweltbundesamtes."
-    },
-    {
-      "from": "Dirk Messner",
       "to": "Dirk Messner",
       "stance": "support",
       "quote": "Kann sich Deutschland den Klimaschutz nicht mehr leisten? Ganz im Gegenteil, findet Dirk Messner, der Chef des Umweltbundesamtes."
@@ -11686,9 +11680,21 @@
     },
     {
       "from": "Dirk Messner",
+      "to": "Umweltbundesamt",
+      "stance": "support",
+      "quote": "Kann sich Deutschland den Klimaschutz nicht mehr leisten? Ganz im Gegenteil, findet Dirk Messner, der Chef des Umweltbundesamtes."
+    },
+    {
+      "from": "Dirk Messner",
       "to": "Welt",
       "stance": "oppose",
       "quote": "Ein Gespr\u00e4ch \u00fcber den gro\u00dfen Rollback in der Umwelt- und Klimapolitik."
+    },
+    {
+      "from": "Lars Klingbeil",
+      "to": "Man",
+      "stance": "support",
+      "quote": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, indem zum Beispiel Hybride noch l\u00e4nger zugelassen wer"
     },
     {
       "from": "Lars Klingbeil",
@@ -11699,12 +11705,6 @@
     {
       "from": "Lars Klingbeil",
       "to": "Man",
-      "stance": "support",
-      "quote": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, indem zum Beispiel Hybride noch l\u00e4nger zugelassen wer"
-    },
-    {
-      "from": "Lars Klingbeil",
-      "to": "China",
       "stance": "oppose",
       "quote": "Dass die Deutsche Bahn entschieden hat, neben einer Gro\u00dfbestellung f\u00fcr MAN auch weitere Elektrobusse aus China zu kaufen, \u00e4rgert mich"
     },
@@ -11722,19 +11722,19 @@
     },
     {
       "from": "Lars Klingbeil",
-      "to": "Man",
+      "to": "China",
       "stance": "oppose",
       "quote": "Dass die Deutsche Bahn entschieden hat, neben einer Gro\u00dfbestellung f\u00fcr MAN auch weitere Elektrobusse aus China zu kaufen, \u00e4rgert mich"
     },
     {
       "from": "Lars Klingbeil",
-      "to": "Eu",
+      "to": "Man",
       "stance": "support",
       "quote": "Ich w\u00fcnsche mir einen gesunden Standort-Patriotismus. Dazu geh\u00f6rt, dass man solche Auftr\u00e4ge bei entsprechendem Angebot deutschen oder europ\u00e4ischen Her"
     },
     {
       "from": "Lars Klingbeil",
-      "to": "Man",
+      "to": "Eu",
       "stance": "support",
       "quote": "Ich w\u00fcnsche mir einen gesunden Standort-Patriotismus. Dazu geh\u00f6rt, dass man solche Auftr\u00e4ge bei entsprechendem Angebot deutschen oder europ\u00e4ischen Her"
     },
@@ -11764,13 +11764,13 @@
     },
     {
       "from": "Ursula von der Leyen",
-      "to": "Ey",
+      "to": "Kommission",
       "stance": "neutral",
       "quote": "Doch jetzt machte Kommissionspr\u00e4sidentin Ursula von der Leyen einen R\u00fcckzieher und will nicht l\u00e4nger auf dem harten Enddatum beharren."
     },
     {
       "from": "Ursula von der Leyen",
-      "to": "Kommission",
+      "to": "Ey",
       "stance": "neutral",
       "quote": "Doch jetzt machte Kommissionspr\u00e4sidentin Ursula von der Leyen einen R\u00fcckzieher und will nicht l\u00e4nger auf dem harten Enddatum beharren."
     },
@@ -11800,13 +11800,13 @@
     },
     {
       "from": "Ursula von der Leyen",
-      "to": "Eu",
+      "to": "Gr\u00fcnen",
       "stance": "support",
       "quote": "\"Innovation, saubere Mobilit\u00e4t, Wettbewerbsf\u00e4higkeit\" - das seien die \"Top-Priorit\u00e4ten\" in diesem Jahr. Europa bleibe trotz der Kehrtwende an \"vorders"
     },
     {
       "from": "Ursula von der Leyen",
-      "to": "Gr\u00fcnen",
+      "to": "Eu",
       "stance": "support",
       "quote": "\"Innovation, saubere Mobilit\u00e4t, Wettbewerbsf\u00e4higkeit\" - das seien die \"Top-Priorit\u00e4ten\" in diesem Jahr. Europa bleibe trotz der Kehrtwende an \"vorders"
     },
@@ -11830,6 +11830,12 @@
     },
     {
       "from": "Gitta Connemann",
+      "to": "Man",
+      "stance": "oppose",
+      "quote": "\"\u00dcber den Vorschlag der EU-Kommission f\u00fcr gewerbliche Fahrzeugflotten kann man nur den Kopf sch\u00fctteln\""
+    },
+    {
+      "from": "Gitta Connemann",
       "to": "Eu-Kommission",
       "stance": "oppose",
       "quote": "\"\u00dcber den Vorschlag der EU-Kommission f\u00fcr gewerbliche Fahrzeugflotten kann man nur den Kopf sch\u00fctteln\""
@@ -11837,12 +11843,6 @@
     {
       "from": "Gitta Connemann",
       "to": "Eu",
-      "stance": "oppose",
-      "quote": "\"\u00dcber den Vorschlag der EU-Kommission f\u00fcr gewerbliche Fahrzeugflotten kann man nur den Kopf sch\u00fctteln\""
-    },
-    {
-      "from": "Gitta Connemann",
-      "to": "Man",
       "stance": "oppose",
       "quote": "\"\u00dcber den Vorschlag der EU-Kommission f\u00fcr gewerbliche Fahrzeugflotten kann man nur den Kopf sch\u00fctteln\""
     },
@@ -11932,13 +11932,13 @@
     },
     {
       "from": "Manfred Weber",
-      "to": "Linken",
+      "to": "Eu",
       "stance": "oppose",
       "quote": "das bisherige Vorhaben als \"schwere industriepolitische Fehlentscheidung der linken Mehrheit im Europ\u00e4ischen Parlament\"."
     },
     {
       "from": "Manfred Weber",
-      "to": "Eu",
+      "to": "Linken",
       "stance": "oppose",
       "quote": "das bisherige Vorhaben als \"schwere industriepolitische Fehlentscheidung der linken Mehrheit im Europ\u00e4ischen Parlament\"."
     },
@@ -11956,12 +11956,6 @@
     },
     {
       "from": "Manfred Weber",
-      "to": "Eu",
-      "stance": "support",
-      "quote": "Wir l\u00f6sen damit unsere beiden wichtigsten Versprechen ein: Wir bleiben auf dem Weg der Klimaneutralit\u00e4t. Aber wir sorgen f\u00fcr Technologie-Neutralit\u00e4t"
-    },
-    {
-      "from": "Manfred Weber",
       "to": "Man",
       "stance": "support",
       "quote": "Wir l\u00f6sen damit unsere beiden wichtigsten Versprechen ein: Wir bleiben auf dem Weg der Klimaneutralit\u00e4t. Aber wir sorgen f\u00fcr Technologie-Neutralit\u00e4t"
@@ -11969,12 +11963,18 @@
     {
       "from": "Manfred Weber",
       "to": "Eu",
+      "stance": "support",
+      "quote": "Wir l\u00f6sen damit unsere beiden wichtigsten Versprechen ein: Wir bleiben auf dem Weg der Klimaneutralit\u00e4t. Aber wir sorgen f\u00fcr Technologie-Neutralit\u00e4t"
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "Man",
       "stance": "neutral",
       "quote": "Technologieoffenheit beim Auto - und versprechen gleichzeitig Klimaneutralit\u00e4t bis 2050."
     },
     {
       "from": "Manfred Weber",
-      "to": "Man",
+      "to": "Eu",
       "stance": "neutral",
       "quote": "Technologieoffenheit beim Auto - und versprechen gleichzeitig Klimaneutralit\u00e4t bis 2050."
     },
@@ -11992,13 +11992,13 @@
     },
     {
       "from": "Apostolos Tzitzikostas",
-      "to": "Eu",
+      "to": "Europ\u00e4ische Kommission",
       "stance": "support",
       "quote": "das Signal aus Br\u00fcssel, dass die Europ\u00e4ische Kommission nicht stur an einst beschlossenen Regeln festh\u00e4lt, sondern auf neue Realit\u00e4ten reagiert"
     },
     {
       "from": "Apostolos Tzitzikostas",
-      "to": "Europ\u00e4ische Kommission",
+      "to": "Eu",
       "stance": "support",
       "quote": "das Signal aus Br\u00fcssel, dass die Europ\u00e4ische Kommission nicht stur an einst beschlossenen Regeln festh\u00e4lt, sondern auf neue Realit\u00e4ten reagiert"
     },
@@ -12046,19 +12046,7 @@
     },
     {
       "from": "Michael Bloss",
-      "to": "Welt",
-      "stance": "oppose",
-      "quote": "Was Manfred Weber fabriziert, reiht sich ein in eine Serie von konservativen Fehlentscheidungen, die Europa vom Weltmarktf\u00fchrer zum Schlusslicht mache"
-    },
-    {
-      "from": "Michael Bloss",
       "to": "Manfred Weber",
-      "stance": "oppose",
-      "quote": "Was Manfred Weber fabriziert, reiht sich ein in eine Serie von konservativen Fehlentscheidungen, die Europa vom Weltmarktf\u00fchrer zum Schlusslicht mache"
-    },
-    {
-      "from": "Michael Bloss",
-      "to": "Eu",
       "stance": "oppose",
       "quote": "Was Manfred Weber fabriziert, reiht sich ein in eine Serie von konservativen Fehlentscheidungen, die Europa vom Weltmarktf\u00fchrer zum Schlusslicht mache"
     },
@@ -12069,20 +12057,20 @@
       "quote": "Was Manfred Weber fabriziert, reiht sich ein in eine Serie von konservativen Fehlentscheidungen, die Europa vom Weltmarktf\u00fchrer zum Schlusslicht mache"
     },
     {
-      "from": "Roman Haider",
-      "to": "Chinese",
-      "stance": "oppose",
-      "quote": "Die Kommission stellt fest, dass Unternehmen zu wenige Elektroautos kaufen. Also werden Unternehmen jetzt gezwungen, E-Autos zu kaufen. Die Kommission"
-    },
-    {
-      "from": "Roman Haider",
+      "from": "Michael Bloss",
       "to": "Welt",
       "stance": "oppose",
-      "quote": "Die Kommission stellt fest, dass Unternehmen zu wenige Elektroautos kaufen. Also werden Unternehmen jetzt gezwungen, E-Autos zu kaufen. Die Kommission"
+      "quote": "Was Manfred Weber fabriziert, reiht sich ein in eine Serie von konservativen Fehlentscheidungen, die Europa vom Weltmarktf\u00fchrer zum Schlusslicht mache"
+    },
+    {
+      "from": "Michael Bloss",
+      "to": "Eu",
+      "stance": "oppose",
+      "quote": "Was Manfred Weber fabriziert, reiht sich ein in eine Serie von konservativen Fehlentscheidungen, die Europa vom Weltmarktf\u00fchrer zum Schlusslicht mache"
     },
     {
       "from": "Roman Haider",
-      "to": "Kommission",
+      "to": "Ifo",
       "stance": "oppose",
       "quote": "Die Kommission stellt fest, dass Unternehmen zu wenige Elektroautos kaufen. Also werden Unternehmen jetzt gezwungen, E-Autos zu kaufen. Die Kommission"
     },
@@ -12094,7 +12082,25 @@
     },
     {
       "from": "Roman Haider",
-      "to": "Ifo",
+      "to": "Kommission",
+      "stance": "oppose",
+      "quote": "Die Kommission stellt fest, dass Unternehmen zu wenige Elektroautos kaufen. Also werden Unternehmen jetzt gezwungen, E-Autos zu kaufen. Die Kommission"
+    },
+    {
+      "from": "Roman Haider",
+      "to": "Man",
+      "stance": "oppose",
+      "quote": "Die Kommission stellt fest, dass Unternehmen zu wenige Elektroautos kaufen. Also werden Unternehmen jetzt gezwungen, E-Autos zu kaufen. Die Kommission"
+    },
+    {
+      "from": "Roman Haider",
+      "to": "Welt",
+      "stance": "oppose",
+      "quote": "Die Kommission stellt fest, dass Unternehmen zu wenige Elektroautos kaufen. Also werden Unternehmen jetzt gezwungen, E-Autos zu kaufen. Die Kommission"
+    },
+    {
+      "from": "Roman Haider",
+      "to": "Gr\u00fcnen",
       "stance": "oppose",
       "quote": "Die Kommission stellt fest, dass Unternehmen zu wenige Elektroautos kaufen. Also werden Unternehmen jetzt gezwungen, E-Autos zu kaufen. Die Kommission"
     },
@@ -12112,13 +12118,7 @@
     },
     {
       "from": "Roman Haider",
-      "to": "Gr\u00fcnen",
-      "stance": "oppose",
-      "quote": "Die Kommission stellt fest, dass Unternehmen zu wenige Elektroautos kaufen. Also werden Unternehmen jetzt gezwungen, E-Autos zu kaufen. Die Kommission"
-    },
-    {
-      "from": "Roman Haider",
-      "to": "Man",
+      "to": "Chinese",
       "stance": "oppose",
       "quote": "Die Kommission stellt fest, dass Unternehmen zu wenige Elektroautos kaufen. Also werden Unternehmen jetzt gezwungen, E-Autos zu kaufen. Die Kommission"
     },
@@ -12130,13 +12130,13 @@
     },
     {
       "from": "Katharina Schulze",
-      "to": "Cdu",
+      "to": "Csu",
       "stance": "oppose",
       "quote": "Der Grund, warum unsere Unternehmen straucheln, ist nicht das Verbrenner-Aus, sondern das st\u00e4ndige Hin- und Hergeblinke von CDU und CSU"
     },
     {
       "from": "Katharina Schulze",
-      "to": "Csu",
+      "to": "Cdu",
       "stance": "oppose",
       "quote": "Der Grund, warum unsere Unternehmen straucheln, ist nicht das Verbrenner-Aus, sondern das st\u00e4ndige Hin- und Hergeblinke von CDU und CSU"
     },
@@ -12154,12 +12154,6 @@
     },
     {
       "from": "Ferdinand Dudenh\u00f6ffer",
-      "to": "China",
-      "stance": "oppose",
-      "quote": "Wenn man 2030 sieht, dass 90 Prozent nicht zu schaffen ist, wird man wieder weich werden in Br\u00fcssel und dem Druck nachgeben und dann auf vielleicht 80"
-    },
-    {
-      "from": "Ferdinand Dudenh\u00f6ffer",
       "to": "Ford",
       "stance": "oppose",
       "quote": "Wenn man 2030 sieht, dass 90 Prozent nicht zu schaffen ist, wird man wieder weich werden in Br\u00fcssel und dem Druck nachgeben und dann auf vielleicht 80"
@@ -12171,10 +12165,10 @@
       "quote": "Wenn man 2030 sieht, dass 90 Prozent nicht zu schaffen ist, wird man wieder weich werden in Br\u00fcssel und dem Druck nachgeben und dann auf vielleicht 80"
     },
     {
-      "from": "Barbara Resch",
-      "to": "Eu",
+      "from": "Ferdinand Dudenh\u00f6ffer",
+      "to": "China",
       "stance": "oppose",
-      "quote": "Der \"Hochlauf der E-Mobilit\u00e4t und die Neuerfindung des Autos 'Made in Germany' wurden zu lange verschleppt\", sagte Resch."
+      "quote": "Wenn man 2030 sieht, dass 90 Prozent nicht zu schaffen ist, wird man wieder weich werden in Br\u00fcssel und dem Druck nachgeben und dann auf vielleicht 80"
     },
     {
       "from": "Barbara Resch",
@@ -12183,14 +12177,20 @@
       "quote": "Der \"Hochlauf der E-Mobilit\u00e4t und die Neuerfindung des Autos 'Made in Germany' wurden zu lange verschleppt\", sagte Resch."
     },
     {
-      "from": "Martin Maier",
+      "from": "Barbara Resch",
       "to": "Eu",
+      "stance": "oppose",
+      "quote": "Der \"Hochlauf der E-Mobilit\u00e4t und die Neuerfindung des Autos 'Made in Germany' wurden zu lange verschleppt\", sagte Resch."
+    },
+    {
+      "from": "Martin Maier",
+      "to": "Man",
       "stance": "support",
       "quote": "Weil es ein preisg\u00fcnstiges Fahrzeug werden wird, hochperformant, attraktiv, das wird sich von alleine regeln"
     },
     {
       "from": "Martin Maier",
-      "to": "Man",
+      "to": "Eu",
       "stance": "support",
       "quote": "Weil es ein preisg\u00fcnstiges Fahrzeug werden wird, hochperformant, attraktiv, das wird sich von alleine regeln"
     },
@@ -12238,13 +12238,13 @@
     },
     {
       "from": "Sebastian Bock",
-      "to": "Zf",
+      "to": "Eu",
       "stance": "oppose",
       "quote": "\"Die Industrie hat sich durchgesetzt und einen B\u00e4rendienst am Klima und am Standort Deutschland und Europa geleistet, weil sie ganz eindeutig kurzfris"
     },
     {
       "from": "Sebastian Bock",
-      "to": "Eu",
+      "to": "Zf",
       "stance": "oppose",
       "quote": "\"Die Industrie hat sich durchgesetzt und einen B\u00e4rendienst am Klima und am Standort Deutschland und Europa geleistet, weil sie ganz eindeutig kurzfris"
     },
@@ -12274,13 +12274,13 @@
     },
     {
       "from": "Michael Brecht",
-      "to": "Eu",
+      "to": "Man",
       "stance": "oppose",
       "quote": "Viele glauben nicht daran, dass man mit Elektroautos Arbeitspl\u00e4tze in Deutschland halten kann."
     },
     {
       "from": "Michael Brecht",
-      "to": "Man",
+      "to": "Eu",
       "stance": "oppose",
       "quote": "Viele glauben nicht daran, dass man mit Elektroautos Arbeitspl\u00e4tze in Deutschland halten kann."
     },
@@ -12298,13 +12298,13 @@
     },
     {
       "from": "Cem \u00d6zdemir",
-      "to": "Eu",
+      "to": "Man",
       "stance": "neutral",
       "quote": "Ich w\u00e4re vorsichtig mit der Rassismuskeule: Wenn man die st\u00e4ndig auspackt, nutzt sie sich ab, und irgendwann dort, wo wir es wirklich mit Rassismus zu"
     },
     {
       "from": "Cem \u00d6zdemir",
-      "to": "Man",
+      "to": "Eu",
       "stance": "neutral",
       "quote": "Ich w\u00e4re vorsichtig mit der Rassismuskeule: Wenn man die st\u00e4ndig auspackt, nutzt sie sich ab, und irgendwann dort, wo wir es wirklich mit Rassismus zu"
     },
@@ -12328,13 +12328,13 @@
     },
     {
       "from": "Winfried Kretschmann",
-      "to": "Eu",
+      "to": "Man",
       "stance": "neutral",
       "quote": "Man m\u00fcsse \"endlich diese elende Antriebsdebatte beenden, die die Leute verunsichert und beim Autokauf z\u00f6gern l\u00e4sst\""
     },
     {
       "from": "Winfried Kretschmann",
-      "to": "Man",
+      "to": "Eu",
       "stance": "neutral",
       "quote": "Man m\u00fcsse \"endlich diese elende Antriebsdebatte beenden, die die Leute verunsichert und beim Autokauf z\u00f6gern l\u00e4sst\""
     },
@@ -12358,6 +12358,12 @@
     },
     {
       "from": "Patrick Hummel",
+      "to": "Man",
+      "stance": "neutral",
+      "quote": "Volkswagen ist in Europa the last man standing"
+    },
+    {
+      "from": "Patrick Hummel",
       "to": "Volkswagen",
       "stance": "neutral",
       "quote": "Volkswagen ist in Europa the last man standing"
@@ -12369,14 +12375,8 @@
       "quote": "Volkswagen ist in Europa the last man standing"
     },
     {
-      "from": "Patrick Hummel",
-      "to": "Man",
-      "stance": "neutral",
-      "quote": "Volkswagen ist in Europa the last man standing"
-    },
-    {
       "from": "Moritz Schularick",
-      "to": "Chinese",
+      "to": "Volvo",
       "stance": "support",
       "quote": "Wenn die Chinesen bei VW einsteigen und dann in Osnabr\u00fcck und Wolfsburg mit deutschen Arbeitskr\u00e4ften wettbewerbsf\u00e4hige, klimaschonende und tolle Autos"
     },
@@ -12394,7 +12394,7 @@
     },
     {
       "from": "Moritz Schularick",
-      "to": "Volvo",
+      "to": "Chinese",
       "stance": "support",
       "quote": "Wenn die Chinesen bei VW einsteigen und dann in Osnabr\u00fcck und Wolfsburg mit deutschen Arbeitskr\u00e4ften wettbewerbsf\u00e4hige, klimaschonende und tolle Autos"
     },
@@ -12424,6 +12424,12 @@
     },
     {
       "from": "Peter Boehringer",
+      "to": "Man",
+      "stance": "oppose",
+      "quote": "Zudem darf man aber auch nicht glauben, dass in Br\u00fcssel nun die Vernunft eingezogen w\u00e4re. Zum einen ist der Vorschlag von Herrn Weber noch gar nicht m"
+    },
+    {
+      "from": "Peter Boehringer",
       "to": "Eu-Kommission",
       "stance": "oppose",
       "quote": "Zudem darf man aber auch nicht glauben, dass in Br\u00fcssel nun die Vernunft eingezogen w\u00e4re. Zum einen ist der Vorschlag von Herrn Weber noch gar nicht m"
@@ -12433,24 +12439,6 @@
       "to": "Eu",
       "stance": "oppose",
       "quote": "Zudem darf man aber auch nicht glauben, dass in Br\u00fcssel nun die Vernunft eingezogen w\u00e4re. Zum einen ist der Vorschlag von Herrn Weber noch gar nicht m"
-    },
-    {
-      "from": "Peter Boehringer",
-      "to": "Man",
-      "stance": "oppose",
-      "quote": "Zudem darf man aber auch nicht glauben, dass in Br\u00fcssel nun die Vernunft eingezogen w\u00e4re. Zum einen ist der Vorschlag von Herrn Weber noch gar nicht m"
-    },
-    {
-      "from": "Peter Boehringer",
-      "to": "Afd",
-      "stance": "oppose",
-      "quote": "Wenn man, wie von Herrn Weber gefordert, die zul\u00e4ssigen CO2-Grenzwerte nun von null auf zehn Prozent anhebt, so ist der Industrie in keiner Weise geho"
-    },
-    {
-      "from": "Peter Boehringer",
-      "to": "Cdu",
-      "stance": "oppose",
-      "quote": "Wenn man, wie von Herrn Weber gefordert, die zul\u00e4ssigen CO2-Grenzwerte nun von null auf zehn Prozent anhebt, so ist der Industrie in keiner Weise geho"
     },
     {
       "from": "Peter Boehringer",
@@ -12466,7 +12454,7 @@
     },
     {
       "from": "Peter Boehringer",
-      "to": "Eu",
+      "to": "Afd",
       "stance": "oppose",
       "quote": "Wenn man, wie von Herrn Weber gefordert, die zul\u00e4ssigen CO2-Grenzwerte nun von null auf zehn Prozent anhebt, so ist der Industrie in keiner Weise geho"
     },
@@ -12478,7 +12466,19 @@
     },
     {
       "from": "Peter Boehringer",
+      "to": "Eu",
+      "stance": "oppose",
+      "quote": "Wenn man, wie von Herrn Weber gefordert, die zul\u00e4ssigen CO2-Grenzwerte nun von null auf zehn Prozent anhebt, so ist der Industrie in keiner Weise geho"
+    },
+    {
+      "from": "Peter Boehringer",
       "to": "Cdu/Csu",
+      "stance": "oppose",
+      "quote": "Wenn man, wie von Herrn Weber gefordert, die zul\u00e4ssigen CO2-Grenzwerte nun von null auf zehn Prozent anhebt, so ist der Industrie in keiner Weise geho"
+    },
+    {
+      "from": "Peter Boehringer",
+      "to": "Cdu",
       "stance": "oppose",
       "quote": "Wenn man, wie von Herrn Weber gefordert, die zul\u00e4ssigen CO2-Grenzwerte nun von null auf zehn Prozent anhebt, so ist der Industrie in keiner Weise geho"
     },
@@ -12502,15 +12502,21 @@
     },
     {
       "from": "Rainer Dulger",
-      "to": "Zf",
+      "to": "Eu",
       "stance": "oppose",
       "quote": "Deutschland sei aktuell nicht mehr konkurrenzf\u00e4hig."
     },
     {
       "from": "Rainer Dulger",
-      "to": "Eu",
+      "to": "Zf",
       "stance": "oppose",
       "quote": "Deutschland sei aktuell nicht mehr konkurrenzf\u00e4hig."
+    },
+    {
+      "from": "Oliver Risken",
+      "to": "Heristo",
+      "stance": "support",
+      "quote": "Mit dem heristo Zukunftsdialog Mittelstand holen wir Wirtschaft und Politik aus der Komfortzone und an einen Tisch. Die Lage in Deutschland ist zu ern"
     },
     {
       "from": "Oliver Risken",
@@ -12526,25 +12532,19 @@
     },
     {
       "from": "Oliver Risken",
-      "to": "Heristo",
-      "stance": "support",
-      "quote": "Mit dem heristo Zukunftsdialog Mittelstand holen wir Wirtschaft und Politik aus der Komfortzone und an einen Tisch. Die Lage in Deutschland ist zu ern"
-    },
-    {
-      "from": "Oliver Risken",
       "to": "Eu",
       "stance": "support",
       "quote": "Mit dem heristo Zukunftsdialog Mittelstand holen wir Wirtschaft und Politik aus der Komfortzone und an einen Tisch. Die Lage in Deutschland ist zu ern"
     },
     {
       "from": "Mathias Miedreich",
-      "to": "China",
+      "to": "Eu",
       "stance": "support",
       "quote": "Wir haben dann die gleiche Gesetzgebung wie in China, was die Entwicklung neuer Produkte rund um E-Antrieb und Hybride vereinfacht"
     },
     {
       "from": "Mathias Miedreich",
-      "to": "Eu",
+      "to": "China",
       "stance": "support",
       "quote": "Wir haben dann die gleiche Gesetzgebung wie in China, was die Entwicklung neuer Produkte rund um E-Antrieb und Hybride vereinfacht"
     }
@@ -13120,10 +13120,20 @@
   "positions_grouped": {
     "support": [
       {
+        "speaker": "Lars Klingbeil",
+        "role": "",
+        "quote": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, indem zum Beispiel Hybride noch l\u00e4nger zugelassen werden",
+        "reasoning": "He supports the policy's goal of climate neutrality and electric mobility, but advocates for flexibility such as allowing hybrids longer, indicating he wants the policy to exist with adjustments.",
+        "confidence": "medium",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
         "speaker": "J\u00fcrgen Resch",
         "role": "",
         "quote": "Was die Performance bei klimavertr\u00e4glichen Pkw angeht, bin ich aber zutiefst entt\u00e4uscht von ihm.",
-        "reasoning": "As an environmental activist, he is highly critical of the auto industry's climate performance and likely supports strict regulations to reduce emissions.",
+        "reasoning": "As an environmental activist, he criticizes auto industry leaders for insufficient action on climate-friendly cars, implying support for strong regulations to reduce emissions.",
         "confidence": "medium",
         "article_title": null,
         "article_url": null,
@@ -13132,18 +13142,8 @@
       {
         "speaker": "Cem \u00d6zdemir",
         "role": "",
-        "quote": "Kein Klimaschutz ist immer teurer als Klimaschutz",
-        "reasoning": "Emphasizes the importance of climate protection and clear goals for electrification, while allowing flexibility in the path.",
-        "confidence": "medium",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Markus S\u00f6der",
-        "role": "",
-        "quote": "Das ist ein sehr gutes Signal, wenn auch nur ein erster Schritt, denn nur zehn Prozent Verbrenner reicht noch nicht",
-        "reasoning": "States that a 90% reduction target is not enough, implying he wants a stricter ban on combustion engines.",
+        "quote": "Lasst uns flexibel sein im Weg, aber klar im Ziel.",
+        "reasoning": "He emphasizes being flexible on the path but clear on the goal of electrification, supporting the policy's existence while allowing for adaptability.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13152,8 +13152,8 @@
       {
         "speaker": "Michael Bloss",
         "role": "",
-        "quote": "Wenn der gr\u00f6\u00dfte Automarkt der Welt, China, auf Elektromobilit\u00e4t setzt, k\u00f6nnen wir als Exportnation nicht bestehen, wenn wir diese Realit\u00e4t ignorieren und den Menschen immer wieder sagen, dass die Welt sich nicht \u00e4ndert",
-        "reasoning": "Argues that weakening the ban ignores global trends and harms the automotive industry's competitiveness, advocating for a full transition to electric mobility.",
+        "quote": "Wenn der gr\u00f6\u00dfte Automarkt der Welt, China, auf Elektromobilit\u00e4t setzt, k\u00f6nnen wir als Exportnation nicht bestehen, wenn wir diese Realit\u00e4t ignorieren",
+        "reasoning": "He opposes weakening the ban, arguing that it harms climate action and industrial competitiveness, especially in light of global shifts to electromobility.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13162,8 +13162,8 @@
       {
         "speaker": "Sebastian Bock",
         "role": "",
-        "quote": "Es ist das v\u00f6llig falsche Signal, jetzt zu verk\u00fcnden, dass der klassische Verbrenner \u00fcber 2035 hinaus eine Zukunft hat",
-        "reasoning": "Criticizes any signal that combustion engines have a future beyond 2035, arguing it sends the wrong message for climate and industry competitiveness.",
+        "quote": "Es ist das v\u00f6llig falsche Signal, jetzt zu verk\u00fcnden, dass der klassische Verbrenner \u00fcber 2035 hinaus eine Zukunft hat.",
+        "reasoning": "He criticizes the industry for pushing to keep combustion engines alive and argues that signaling a future for them beyond 2035 is the wrong signal for climate and competitiveness.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13172,8 +13172,8 @@
       {
         "speaker": "Christian Levin",
         "role": "",
-        "quote": "Die Idee, dass wir absichtlich langsamer machen, ist absurd. Jeder verkaufte Elektro-Lkw hilft uns",
-        "reasoning": "Supports climate goals and argues against slowing down the transition to electric vehicles, implying support for policies that drive electrification.",
+        "quote": "Wir stehen zu den Klimazielen",
+        "reasoning": "He affirms commitment to climate goals, criticizes the current system, and emphasizes the need to sell as many emission-free vehicles as possible, aligning with policies that push for zero-emission transport.",
         "confidence": "medium",
         "article_title": null,
         "article_url": null,
@@ -13182,9 +13182,19 @@
       {
         "speaker": "Monika Schnitzer",
         "role": "",
-        "quote": "das gelockerte Verbrenner-Aus werde eher noch mehr Jobs vernichten",
-        "reasoning": "Criticizes the loosening of the ban, suggesting it will cost more jobs, implying that the stricter ban is preferable.",
+        "quote": "das gelockerte Verbrenner-Aus werde eher noch mehr Jobs vernichten.",
+        "reasoning": "She argues that relaxing the combustion engine phase-out will cost more jobs in the long term, implying support for a stricter phase-out policy.",
         "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Ciara Cook",
+        "role": "",
+        "quote": "Es wird schwerer, die noch geplanten Batterieprojekte umzusetzen.",
+        "reasoning": "She warns that weakening support for battery projects will drive away capital, implying support for strong policies that promote the transition to electric vehicles.",
+        "confidence": "medium",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13193,7 +13203,7 @@
         "speaker": "Oliver Blume",
         "role": "",
         "quote": "ein \"zentralen Baustein\" f\u00fcr die technologische Unabh\u00e4ngigkeit Europas",
-        "reasoning": "Supports the transition to electric vehicles as a key building block for European technological independence, though expresses concern about dependency on Asian suppliers.",
+        "reasoning": "He views EV battery production as a central element for European technological independence, implying support for the policy's shift away from combustion engines.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13203,7 +13213,7 @@
         "speaker": "Dirk Messner",
         "role": "",
         "quote": "Kann sich Deutschland den Klimaschutz nicht mehr leisten? Ganz im Gegenteil, findet Dirk Messner, der Chef des Umweltbundesamtes.",
-        "reasoning": "As head of the Federal Environment Agency, he defends climate protection and implies that Germany can afford it, aligning with policies like the combustion engine ban.",
+        "reasoning": "As head of the German Environment Agency, he argues for climate protection and against rollbacks, supporting strong measures like the combustion engine ban.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13212,8 +13222,8 @@
       {
         "speaker": "Carsten Schneider",
         "role": "",
-        "quote": "\"Die Zukunft der Mobilit\u00e4t ist elektrisch. Elektroautos sind technisch \u00fcberlegen und werden immer besser und g\u00fcnstiger.\"",
-        "reasoning": "Explicitly supports electric mobility and believes rules are becoming more flexible while maintaining climate goals, aligning with the policy.",
+        "quote": "\"Die Zukunft der Mobilit\u00e4t ist elektrisch. Elektroautos sind technisch \u00fcberlegen und werden immer besser und g\u00fcnstiger. In zehn Jahren werden fast alle Neuwagen in Europa Elektroautos sein\"",
+        "reasoning": "He states that the future of mobility is electric and that EVs are superior, supporting the policy's direction despite mentioning flexibility.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13223,8 +13233,8 @@
         "speaker": "Michael Brecht",
         "role": "",
         "quote": "Wir schaffen keine neuen Arbeitspl\u00e4tze, wenn wir uns den Klimaschutz verweigern.",
-        "reasoning": "Emphasizes that refusing climate protection won't create jobs, indicating support for climate policies like the ban, despite concerns about job retention.",
-        "confidence": "medium",
+        "reasoning": "He argues that climate protection creates jobs and supports the transition to EVs, aligning with the policy's goals.",
+        "confidence": "high",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13233,7 +13243,7 @@
         "speaker": "Pedro Pacheo",
         "role": "",
         "quote": "Es ist ein Fehler, seine begrenzten Ressourcen auf alle Antriebsarten zu verteilen",
-        "reasoning": "Advocates focusing limited resources on one drive type rather than spreading them, which aligns with the policy's focus on electric vehicles.",
+        "reasoning": "He advocates focusing limited resources on one drive type, likely electric, rather than spreading them, which aligns with the ban's focus on EVs.",
         "confidence": "medium",
         "article_title": null,
         "article_url": null,
@@ -13242,18 +13252,28 @@
       {
         "speaker": "Siegfried de Vries",
         "role": "",
-        "quote": "dass die Neuregelung den Herstellern dringend ben\u00f6tigte Luft verschafft, um den \u00dcbergang zur E-Mobilit\u00e4t finanziell abzusichern.",
-        "reasoning": "Views the new regulation as providing necessary breathing room for manufacturers to financially secure the transition to e-mobility.",
+        "quote": "\"dass die Neuregelung den Herstellern dringend ben\u00f6tigte Luft verschafft, um den \u00dcbergang zur E-Mobilit\u00e4t finanziell abzusichern.\"",
+        "reasoning": "States that the new regulation provides manufacturers with needed breathing room to finance the transition to e-mobility, indicating support for the policy's role in facilitating the shift.",
+        "confidence": "medium",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Martin Kaiser",
+        "role": "",
+        "quote": "\"dass der Bedarf an Bio-Fuels f\u00fcr nur 10 Prozent der Flotte unrealistische Mengen an landwirtschaftlicher Fl\u00e4che verschlingen w\u00fcrde.\"",
+        "reasoning": "Criticizes biofuels as unrealistic due to land use, implying support for a full transition to electric vehicles and a strict ban on combustion engines.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
         "date": null
       },
       {
-        "speaker": "Apostolos Tzitzikostas",
+        "speaker": "Michael Lohscheller",
         "role": "",
-        "quote": "das Signal aus Br\u00fcssel, dass die Europ\u00e4ische Kommission nicht stur an einst beschlossenen Regeln festh\u00e4lt, sondern auf neue Realit\u00e4ten reagiert",
-        "reasoning": "Praises the European Commission for showing flexibility and adapting to new realities, indicating support for the policy's adaptive approach.",
+        "quote": "\"Ein 2035 gebautes Auto mit Verbrennungsmotor k\u00f6nnte auch zwanzig Jahre sp\u00e4ter noch die Umwelt verschmutzen. Die Abkehr von einem klaren 100-prozentigen Null-Emissions-Ziel hin zu einem 90-prozentigen\"",
+        "reasoning": "Criticizes the move away from a 100% zero-emission goal, advocating for a stricter ban on combustion engines.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13262,8 +13282,8 @@
       {
         "speaker": "Katharina Schulze",
         "role": "",
-        "quote": "Der Grund, warum unsere Unternehmen straucheln, ist nicht das Verbrenner-Aus, sondern das st\u00e4ndige Hin- und Hergeblinke von CDU und CSU",
-        "reasoning": "Argues that companies' struggles are due to political uncertainty, not the combustion engine ban, implying support for the policy.",
+        "quote": "\"Der Grund, warum unsere Unternehmen straucheln, ist nicht das Verbrenner-Aus, sondern das st\u00e4ndige Hin- und Hergeblinke von CDU und CSU\"",
+        "reasoning": "Defends the ban, arguing that the problem is political instability rather than the policy itself, indicating support.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13272,9 +13292,19 @@
       {
         "speaker": "Barbara Resch",
         "role": "",
-        "quote": "Der \"Hochlauf der E-Mobilit\u00e4t und die Neuerfindung des Autos 'Made in Germany' wurden zu lange verschleppt\", sagte Resch.",
-        "reasoning": "States that the ramp-up of e-mobility has been delayed too long, implying the policy is needed to accelerate the transition.",
+        "quote": "\"Der \"Hochlauf der E-Mobilit\u00e4t und die Neuerfindung des Autos 'Made in Germany' wurden zu lange verschleppt\", sagte Resch.\"",
+        "reasoning": "States that the ramp-up of e-mobility was delayed too long, implying support for policies that accelerate the transition, such as the ban.",
         "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Volkswagen",
+        "role": "",
+        "quote": "\"Die Kommission macht mit ihrem Vorschlag deutlich: Elektromobilit\u00e4t ist die f\u00fchrende Technologie der Zukunft.\"",
+        "reasoning": "Endorses the Commission's proposal that electromobility is the leading technology of the future, indicating support for the policy's direction.",
+        "confidence": "medium",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13282,8 +13312,8 @@
       {
         "speaker": "William Todts",
         "role": "",
-        "quote": "\"Ich hoffe, dass sie, wenn sie ein wenig von dem bekommen, was sie wollen, aufh\u00f6ren werden, die politische Debatte zu vergiften\".",
-        "reasoning": "Hopes that opponents will stop poisoning the debate if given some concessions, implying support for the policy while seeking compromise.",
+        "quote": "\"Ich hoffe, dass sie, wenn sie ein wenig von dem bekommen, was sie wollen, aufh\u00f6ren werden, die politische Debatte zu vergiften\"",
+        "reasoning": "As an environmental NGO leader, he likely supports the ban, and his quote about calming the debate after concessions suggests he backs the policy overall.",
         "confidence": "medium",
         "article_title": null,
         "article_url": null,
@@ -13293,7 +13323,17 @@
         "speaker": "Wopke Hoekstra",
         "role": "",
         "quote": "\"Wir ebnen den Weg f\u00fcr eine florierende europ\u00e4ische Automobilindustrie und sichern Millionen von Arbeitspl\u00e4tzen in der gesamten EU\"",
-        "reasoning": "Claims the policy paves the way for a flourishing automotive industry and secures millions of jobs, indicating strong support.",
+        "reasoning": "States that the policy paves the way for a flourishing automotive industry and secures jobs, indicating strong support.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Winfried Kretschmann",
+        "role": "",
+        "quote": "\"Man m\u00fcsse \"endlich diese elende Antriebsdebatte beenden, die die Leute verunsichert und beim Autokauf z\u00f6gern l\u00e4sst\"\"",
+        "reasoning": "Argues for ending the drivetrain debate to reduce consumer uncertainty, which a clear ban could achieve, indicating support.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13302,9 +13342,9 @@
       {
         "speaker": "Thomas Schmall",
         "role": "",
-        "quote": "Mit der Zellfabrik in Salzgitter zeigen wir, dass wir auch in Europa innovative Spitzentechnologie entwickeln und industrialisieren k\u00f6nnen",
-        "reasoning": "Highlights investment in battery cell production as evidence of European innovation in EV technology, aligning with the policy's goals.",
-        "confidence": "medium",
+        "quote": "\"Mit der Zellfabrik in Salzgitter zeigen wir, dass wir auch in Europa innovative Spitzentechnologie entwickeln und industrialisieren k\u00f6nnen\"",
+        "reasoning": "Highlights battery cell production in Europe, showing commitment to EV technology and implying support for the transition driven by the ban.",
+        "confidence": "high",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13312,19 +13352,9 @@
       {
         "speaker": "Pedro Sanchez",
         "role": "",
-        "quote": "jede zus\u00e4tzliche Aufweichung der CO-Ziele drohe Investitionen in die Modernisierung auszubremsen, weil die Nachfrage nach Elektroautos sinke, und gef\u00e4hrde so die Wettbewerbsf\u00e4higkeit von Autoherstelle",
-        "reasoning": "Argues against weakening CO2 targets, stating that it would slow investment and harm competitiveness, indicating support for strong targets.",
+        "quote": "\"jede zus\u00e4tzliche Aufweichung der CO-Ziele drohe Investitionen in die Modernisierung auszubremsen, weil die Nachfrage nach Elektroautos sinke, und gef\u00e4hrde so die Wettbewerbsf\u00e4higkeit von Autoherstelle\"",
+        "reasoning": "Argues against weakening CO2 goals, stating that it would threaten investments and competitiveness, indicating support for strict targets.",
         "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Oliver Risken",
-        "role": "",
-        "quote": "Mit dem heristo Zukunftsdialog Mittelstand holen wir Wirtschaft und Politik aus der Komfortzone und an einen Tisch. Die Lage in Deutschland ist zu ernst f\u00fcr Business as usual. Wir brauchen mutige Ents",
-        "reasoning": "He calls for brave decisions and moving away from business as usual, which could align with supporting transformative policies like the combustion engine ban, though not explicitly stated.",
-        "confidence": "low",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13334,8 +13364,8 @@
       {
         "speaker": "Oliver Zipse",
         "role": "",
-        "quote": "Es ist absurd, dass die EU-Kommission Technologieneutralit\u00e4t zum Leitprinzip erkl\u00e4rt - aber gleichzeitig \u00fcber die Flottenregulierung in wichtigen M\u00e4rkten doch ein Verbrennerverbot durch die Hintert\u00fcr",
-        "reasoning": "Criticizes the policy as a 'backdoor ban', advocates for technology neutrality, and argues for more flexibility and consideration of the entire CO2 footprint.",
+        "quote": "Ein Verbrennerverbot durch die Hintert\u00fcr",
+        "reasoning": "He criticizes the policy as a 'combustion engine ban through the back door,' advocates for technology neutrality, and argues for a focus on the entire CO2 footprint rather than rigid electrification quotas.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13345,7 +13375,7 @@
         "speaker": "Friedrich Merz",
         "role": "",
         "quote": "Mehr Technologieoffenheit und mehr Flexibilit\u00e4t sind richtige Schritte - um Klimaziele, Marktrealit\u00e4ten, Unternehmen und Arbeitspl\u00e4tze besser zusammenzubringen.",
-        "reasoning": "Calls for more technology openness and flexibility, opposes strict quotas, and supports a different path to climate goals.",
+        "reasoning": "He calls for more technology openness and flexibility, opposes new legal quotas for company car fleets, and seeks a different path while maintaining climate goals.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13354,8 +13384,8 @@
       {
         "speaker": "Manfred Weber",
         "role": "",
-        "quote": "Damit ist das Technologieverbot f\u00fcr den Verbrenner vom Tisch. Alle derzeit in Deutschland gebauten Motoren k\u00f6nnen damit weiterproduziert und verkauft werden.",
-        "reasoning": "Celebrates the removal of the technology ban for combustion engines, supports a 90% reduction target instead of 100%, and emphasizes consumer choice and industrial jobs.",
+        "quote": "Damit ist das Technologieverbot f\u00fcr den Verbrenner vom Tisch.",
+        "reasoning": "He describes the original ban as a 'heavy industrial-political misdecision,' supports a 90% reduction target instead of 100%, and declares the technology ban off the table.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13365,17 +13395,27 @@
         "speaker": "Hans-Ulrich R\u00fclke",
         "role": "",
         "quote": "Es ist Zeit, dass dieses Verbrennerverbot verschwindet, es ist Zeit, dass die Flottengrenzwerte verschwinden.",
-        "reasoning": "Explicitly calls for the combustion engine ban and fleet limits to disappear, framing it as a cultural war against industry.",
+        "reasoning": "He explicitly calls for the combustion engine ban and fleet limits to disappear, framing it as ending a culture war against the auto industry.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
         "date": null
       },
       {
-        "speaker": "Lars Klingbeil",
+        "speaker": "Christian Lindner",
         "role": "",
-        "quote": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, indem zum Beispiel Hybride noch l\u00e4nger zugelassen werden",
-        "reasoning": "Supports flexibility such as allowing hybrids longer, which weakens the strict ban, while still advocating for rapid transition to electric mobility.",
+        "quote": "Alles kann, nichts muss.",
+        "reasoning": "As FDP leader, he generally opposes technology bans and advocates for flexibility and market-based solutions, though the provided quotes are not directly on the policy.",
+        "confidence": "medium",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Markus S\u00f6der",
+        "role": "",
+        "quote": "Das ist ein sehr gutes Signal, wenn auch nur ein erster Schritt, denn nur zehn Prozent Verbrenner reicht noch nicht",
+        "reasoning": "He welcomes the relaxation of the ban (e.g., 10% allowance) as a good signal but argues it is not enough, indicating he wants the policy further weakened.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13384,8 +13424,8 @@
       {
         "speaker": "Ursula von der Leyen",
         "role": "",
-        "quote": "Doch jetzt machte Kommissionspr\u00e4sidentin Ursula von der Leyen einen R\u00fcckzieher und will nicht l\u00e4nger auf dem harten Enddatum beharren",
-        "reasoning": "Backtracks on the hard end date for combustion engines, advocating for more flexibility while still claiming leadership in the clean transition.",
+        "quote": "Doch jetzt machte Kommissionspr\u00e4sidentin Ursula von der Leyen einen R\u00fcckzieher und will nicht l\u00e4nger auf dem harten Enddatum beharren.",
+        "reasoning": "She is described as making a U-turn and no longer insisting on a hard end date for combustion engines, indicating opposition to a strict ban.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13394,8 +13434,8 @@
       {
         "speaker": "Jan-Christoph Oetjen",
         "role": "",
-        "quote": "Die Abkehr vom Verbrenner-Aus ist eine Mogelpackung",
-        "reasoning": "Calls the retreat from the ban a sham and criticizes new rules for company cars that effectively bring a de facto ban earlier.",
+        "quote": "Die Abkehr vom Verbrenner-Aus ist eine Mogelpackung.",
+        "reasoning": "He criticizes the revised policy as a 'sham' because company car rules effectively bring forward a ban, indicating opposition to the policy's design and impact.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13405,7 +13445,7 @@
         "speaker": "Peter Liese",
         "role": "",
         "quote": "Wir k\u00f6nnen Klimaschutz auch ohne Verbrennerverbot erreichen",
-        "reasoning": "Explicitly states that climate protection can be achieved without a combustion engine ban and calls the ban a mistake.",
+        "reasoning": "He explicitly states that climate protection can be achieved without a combustion engine ban and calls the ban decision a mistake.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13415,18 +13455,18 @@
         "speaker": "Peter Boehringer",
         "role": "",
         "quote": "Selbst wenn die EU jetzt anfangen sollte, beim Verbrenner-Verbot ein wenig zur\u00fcckzurudern, so hat sie doch mit ihrer irrlichternden Politik bereits unermesslichen Schaden angerichtet",
-        "reasoning": "Criticizes the ban as having caused immense damage and expresses skepticism about any meaningful backtracking.",
+        "reasoning": "He condemns the EU's combustion engine ban policy as causing immense damage and argues that even a relaxed target does not help the industry.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
         "date": null
       },
       {
-        "speaker": "Mathias Miedreich",
+        "speaker": "Christian D\u00fcrr",
         "role": "",
-        "quote": "Wir m\u00fcssen wieder unsere unternehmerische Freiheit erlangen",
-        "reasoning": "Advocates for regaining entrepreneurial freedom and criticizes current regulations, implying opposition to restrictive policies like the ban.",
-        "confidence": "high",
+        "quote": "Manchmal ist es kl\u00fcger, die Perspektive zu wechseln",
+        "reasoning": "As FDP parliamentary leader, he likely opposes technology bans and advocates for flexibility, though the provided quote is not directly on the policy.",
+        "confidence": "medium",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13435,7 +13475,7 @@
         "speaker": "Roland Tichy",
         "role": "",
         "quote": "\"Noch nie wurden wir derart belogen, noch nie wurden wir derartig betrogen\"",
-        "reasoning": "Expresses strong negative sentiment, suggesting deception and betrayal, likely referring to the policy or its proponents.",
+        "reasoning": "He expresses feelings of being lied to and betrayed, likely referring to the policy or its proponents, indicating strong opposition.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13445,7 +13485,7 @@
         "speaker": "Florian Lang-Melzian",
         "role": "",
         "quote": "Das Ding ist, dass man die Sache nicht mehr selbst in der Hand hat. Der Kontrollverlust macht einen fertig.",
-        "reasoning": "Describes a loss of control and crisis, likely due to imposed changes from the transition, indicating opposition to the policy.",
+        "reasoning": "He expresses loss of control and nostalgia for past crisis management, suggesting discomfort with the forced transition imposed by the policy.",
         "confidence": "medium",
         "article_title": null,
         "article_url": null,
@@ -13454,9 +13494,9 @@
       {
         "speaker": "Peter Leibinger",
         "role": "",
-        "quote": "\"Wir stecken in der schwersten Wirtschaftskrise seit Gr\u00fcndung der Bundesrepublik.\"",
-        "reasoning": "Describes a severe economic crisis and structural decline, likely linked to the policy's impact on industry, indicating opposition.",
-        "confidence": "medium",
+        "quote": "\"Wir stecken in der schwersten Wirtschaftskrise seit Gr\u00fcndung der Bundesrepublik. Die Stimmung ist extrem negativ, teils regelrecht aggressiv.\"",
+        "reasoning": "He describes a severe economic crisis and structural decline, likely blaming policies like the combustion ban for negative impacts.",
+        "confidence": "high",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13465,7 +13505,7 @@
         "speaker": "Gitta Connemann",
         "role": "",
         "quote": "\"Br\u00fcssel muss dringend nachsteuern\"",
-        "reasoning": "Criticizes EU Commission proposals and calls for adjustments, indicating she wants the policy weakened or changed.",
+        "reasoning": "She calls for Brussels to adjust the proposal and criticizes it, indicating she wants the policy weakened or changed.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13474,8 +13514,8 @@
       {
         "speaker": "Stefan Hartung",
         "role": "",
-        "quote": "Seine Aussagen sind deutlich kritischer als die gro\u00dfer Autohersteller.",
-        "reasoning": "Described as more critical than large automakers and questions whether companies should solve dependency problems, indicating opposition to prescriptive policies.",
+        "quote": "\"Es kann nicht das Kernziel von Unternehmen sein, europ\u00e4ische Abh\u00e4ngigkeitsprobleme zu l\u00f6sen\"",
+        "reasoning": "He is critical and argues that companies' core goal is not to solve European dependency problems, implying resistance to the policy's rationale.",
         "confidence": "medium",
         "article_title": null,
         "article_url": null,
@@ -13485,300 +13525,8 @@
         "speaker": "Hildegard M\u00fcller",
         "role": "",
         "quote": "Die dort postulierte Technologieoffenheit sei nicht mehr als ein Lippenbekenntnis",
-        "reasoning": "Criticizes the lack of true technology openness, suggesting she wants more flexibility and opposes a strict ban.",
+        "reasoning": "She criticizes the lack of true technology openness, implying the ban is too prescriptive and should allow more alternatives.",
         "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Dr. Michael Haberland",
-        "role": "",
-        "quote": "Man kann Menschen nicht umerziehen, indem man ihnen das Leben k\u00fcnstlich verteuert.",
-        "reasoning": "Criticizes the demonization of efficient combustion engines and argues against re-education through artificial cost increases, clearly opposing the policy.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Andreas Koelpin",
-        "role": "",
-        "quote": "Ich schaue in die Gesichter meiner Kollegen und sehe Perspektivlosigkeit",
-        "reasoning": "Describes a dire situation and lack of perspective in the company, likely due to the transition forced by the policy, indicating opposition.",
-        "confidence": "medium",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Michael G\u00f6rg",
-        "role": "",
-        "quote": "Ich vermisse ein Zeichen vom Management, dass auch dort verzichtet wird",
-        "reasoning": "Criticizes management during difficult times, likely related to transition pressures, suggesting opposition to policies causing such hardships.",
-        "confidence": "medium",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Fritz Vahrenholt",
-        "role": "",
-        "quote": "Diese Einigung auf EU-Ebene sogar als \"Selbstaufgabe Europas\".",
-        "reasoning": "Calls the EU agreement \"self-abandonment of Europe,\" indicating strong opposition to the policy.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Alexander Hoffmann",
-        "role": "",
-        "quote": "\"Ich setze darauf, dass es im weiteren Verfahren zu erheblichen \u00c4nderungen an dem Kommissionsvorschlag kommen wird.\"",
-        "reasoning": "Hopes for significant changes to the Commission proposal, indicating he does not support the policy as-is and wants it weakened.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Konstantin Sixt",
-        "role": "",
-        "quote": "\"Nachfrage folgt der Schnelladeinfrastruktur, nicht umgekehrt.\"",
-        "reasoning": "Argues that demand follows infrastructure, not vice versa, suggesting the policy is premature or misdirected.",
-        "confidence": "medium",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Alexander Sixt",
-        "role": "",
-        "quote": "Oder anders: 80 Prozent der gesamten EU ist Ladew\u00fcste.",
-        "reasoning": "Criticizes lack of charging infrastructure, implying the ban is premature and infeasible.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Martin Kaiser",
-        "role": "",
-        "quote": "dass der Bedarf an Bio-Fuels f\u00fcr nur 10 Prozent der Flotte unrealistische Mengen an landwirtschaftlicher Fl\u00e4che verschlingen w\u00fcrde.",
-        "reasoning": "Criticizes the use of biofuels as unrealistic due to excessive land use, likely opposing a policy that includes such exceptions.",
-        "confidence": "medium",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Michael Lohscheller",
-        "role": "",
-        "quote": "Ein 2035 gebautes Auto mit Verbrennungsmotor k\u00f6nnte auch zwanzig Jahre sp\u00e4ter noch die Umwelt verschmutzen. Die Abkehr von einem klaren 100-prozentigen Null-Emissions-Ziel hin zu einem 90-prozentigen",
-        "reasoning": "Criticizes the move from a 100% zero-emission target to a 90% target, arguing for a stricter ban.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Roman Haider",
-        "role": "",
-        "quote": "Die Kommission stellt fest, dass Unternehmen zu wenige Elektroautos kaufen. Also werden Unternehmen jetzt gezwungen, E-Autos zu kaufen. Die Kommission stellt fest, dass wir B\u00fcrger lieber Benziner, Die",
-        "reasoning": "Criticizes the policy for forcing companies to buy electric vehicles, viewing it as coercive and unpopular.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Roloff",
-        "role": "",
-        "quote": "ohne \"Weitblick und Konzept\" zu agieren",
-        "reasoning": "Accuses the policy of being implemented without foresight and a coherent concept.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Klaus Holetscheck",
-        "role": "",
-        "quote": "Das sieht eher auf den ersten Blick nach einer Scheinl\u00f6sung aus, die lediglich B\u00fcrokratie mit sich bringt. Hier werden bewusst Deutschland und die deutsche Industrie und deutsche Unternehmen benachtei",
-        "reasoning": "Describes the policy as a pseudo-solution that adds bureaucracy and disadvantages German industry.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Felix Banaszak",
-        "role": "",
-        "quote": "K\u00fcnftig muss jeder Autohersteller in Kleinstarbeit die Menge von eingebautem gr\u00fcnen Stahl und den Einsatz von E-Fuels vorrechnen und nachweisen k\u00f6nnen - wir wissen alle: Das wird so nicht klappen",
-        "reasoning": "Criticizes the bureaucratic reporting requirements for green steel and e-fuels, claiming they are unworkable.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Horst Ott",
-        "role": "",
-        "quote": "Wir ben\u00f6tigen die Einnahmen durch Verbrenner, um den aktuell zu langsamen Hochlauf der E-Mobilit\u00e4t zu finanzieren",
-        "reasoning": "Argues that revenue from combustion engines is needed to finance the slow ramp-up of e-mobility, implying the ban would cut off essential funding.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Ferdinand Dudenh\u00f6ffer",
-        "role": "",
-        "quote": "Wenn man 2030 sieht, dass 90 Prozent nicht zu schaffen ist, wird man wieder weich werden in Br\u00fcssel und dem Druck nachgeben und dann auf vielleicht 80 Prozent gehen oder 90 Prozent f\u00fcr 2040 einfordern",
-        "reasoning": "Predicts that the targets will be weakened because they are unrealistic, implying the policy is too ambitious and will fail.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Martin Maier",
-        "role": "",
-        "quote": "Weil es ein preisg\u00fcnstiges Fahrzeug werden wird, hochperformant, attraktiv, das wird sich von alleine regeln",
-        "reasoning": "Suggests that market forces will lead to attractive electric vehicles naturally, implying the ban is unnecessary.",
-        "confidence": "low",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Mercedes-Benz",
-        "role": "",
-        "quote": "Schritt in die richtige Richtung hin zu mehr Flexibilit\u00e4t f\u00fcr uns als Hersteller und hin zu der notwendigen Technologieneutralit\u00e4t",
-        "reasoning": "Calls for more flexibility and technology neutrality, indicating opposition to a rigid, prescriptive ban.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Dariusz Jo\u0144ski",
-        "role": "",
-        "quote": "So w\u00fcrden insbesondere kleine und mittlere Unternehmen und Einzelunternehmer durch einen Kaufzwang in ihrer Liquidit\u00e4t bedroht",
-        "reasoning": "Claims that a purchase mandate threatens the liquidity of small and medium-sized enterprises, opposing the policy.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Sigmar Gabriel",
-        "role": "",
-        "quote": "Diese Regierung packt nicht die Themen an, die deutsche Unternehmen besch\u00e4ftigen und die sie daran hindern, wieder in Deutschland zu investieren.",
-        "reasoning": "Criticizes the government for not addressing issues that hinder investment, likely including the combustion engine ban.",
-        "confidence": "medium",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Hans Werner Sinn",
-        "role": "",
-        "quote": "Deutschland zwingt sich in die Deindustrialisierung",
-        "reasoning": "He criticizes the policy as forcing Germany into deindustrialization, indicating he views it as harmful and likely wants it removed or weakened.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Rainer Dulger",
-        "role": "",
-        "quote": "Deutschland sei aktuell nicht mehr konkurrenzf\u00e4hig.",
-        "reasoning": "He claims Germany is no longer competitive, likely implying that policies like the combustion engine ban harm competitiveness, suggesting opposition.",
-        "confidence": "medium",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      }
-    ],
-    "neutral": [
-      {
-        "speaker": "Christian Lindner",
-        "role": "",
-        "quote": "Alles kann, nichts muss.",
-        "reasoning": "No direct statement on the combustion engine ban in the provided quotes; comments are focused on broader political issues.",
-        "confidence": "low",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Alice Weidel",
-        "role": "",
-        "quote": "Unsere Energiepreise sind viel zu hoch. Wir fliegen \u00fcberall aus dem internationalen Wettbewerb raus.",
-        "reasoning": "Quotes address energy policy and criticism of past governments, but do not directly mention the combustion engine ban.",
-        "confidence": "low",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Stefan Bratzel",
-        "role": "",
-        "quote": "Die anhaltende Diskussion rund um das faktische Verbrennerverbot 2035 verst\u00e4rkt die Verunsicherung der Verbraucher und verz\u00f6gert den schnellen Markthochlauf und die Realisierung wichtiger Skaleneffekte",
-        "reasoning": "Criticizes the uncertainty caused by the debate around the ban but does not explicitly take a position for or against the policy itself.",
-        "confidence": "medium",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Johannes Oetjen",
-        "role": "",
-        "quote": "Elektrofahrzeuge gelten als Chance, lokale Wertsch\u00f6pfung zu generieren und Afrikas reichhaltige Rohstoffvorkommen sowie sein gro\u00dfes Potenzial an erneuerbarer Energie zu nutzen",
-        "reasoning": "Discusses the potential for electric mobility in Africa, but does not comment on the EU combustion engine ban policy.",
-        "confidence": "medium",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Moritz Schularick",
-        "role": "",
-        "quote": "Wenn die Chinesen bei VW einsteigen und dann in Osnabr\u00fcck und Wolfsburg mit deutschen Arbeitskr\u00e4ften wettbewerbsf\u00e4hige, klimaschonende und tolle Autos produzieren, so wie es die Geely-Gruppe mit Volvo",
-        "reasoning": "Comments on working hours and Chinese investment in automotive, but does not address the combustion engine ban policy.",
-        "confidence": "medium",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Ciara Cook",
-        "role": "",
-        "quote": "Es wird schwerer, die noch geplanten Batterieprojekte umzusetzen. Das Kapital wird nicht einfach \u00fcber Nacht verschwinden, aber es wird verschwinden, wenn Deutschland und die EU nicht gegensteuern",
-        "reasoning": "Expresses concerns about battery projects needing support, but does not directly comment on the combustion engine ban.",
-        "confidence": "medium",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Christian D\u00fcrr",
-        "role": "",
-        "quote": "Manchmal ist es kl\u00fcger, die Perspektive zu wechseln",
-        "reasoning": "Makes general statements about changing perspectives and breaking stagnation, but no direct mention of the combustion engine ban.",
-        "confidence": "low",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Euan Graham",
-        "role": "",
-        "quote": "Im Jahr 2025 hat sich der Schwerpunkt verlagert. Die Schwellenl\u00e4nder holen nicht l\u00e4nger auf, sondern f\u00fchren den Wandel hin zur Elektromobilit\u00e4t an",
-        "reasoning": "Observes the global shift to electric mobility led by emerging markets, but does not take a stance on the EU policy.",
-        "confidence": "medium",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13787,8 +13535,8 @@
         "speaker": "Constantin Gall",
         "role": "",
         "quote": "Die Zahlen deuten auf den ersten Blick auf einen Elektro-Boom hin. Tats\u00e4chlich aber gleicht das starke Wachstum des Jahres 2025 nur den Absatzeinbruch des Jahres 2024 aus.",
-        "reasoning": "Provides a neutral analysis of EV sales growth, without expressing a clear opinion on the policy itself.",
-        "confidence": "high",
+        "reasoning": "He downplays the EV boom, suggesting the policy isn't as successful as claimed, indicating skepticism or opposition.",
+        "confidence": "medium",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13797,7 +13545,7 @@
         "speaker": "Nicole B\u00fcttner",
         "role": "",
         "quote": "Wollen wir m\u00fcndige B\u00fcrger sein oder B\u00fcrger, die nur noch betreut werden wollen?",
-        "reasoning": "Asks a philosophical question about citizen autonomy vs. paternalism, which does not directly address the combustion engine ban.",
+        "reasoning": "She questions paternalistic governance, likely opposing the ban as an imposition on citizen choice.",
         "confidence": "high",
         "article_title": null,
         "article_url": null,
@@ -13806,9 +13554,19 @@
       {
         "speaker": "Gerhard Hillebrand",
         "role": "",
-        "quote": "Der ADAC h\u00e4lt die CO2-Bepreisung f\u00fcr ein richtiges Instrument, um die Klimaschutzziele zu erreichen.",
-        "reasoning": "Supports CO2 pricing as an instrument for climate goals but does not explicitly address the combustion engine ban, making his stance unclear.",
-        "confidence": "medium",
+        "quote": "Der ADAC h\u00e4lt die CO2-Bepreisung f\u00fcr ein richtiges Instrument, um die Klimaschutzziele zu erreichen. Die Leute brauchen den Anreiz, um auf klimaschonende Alternativen zum Diesel und Benziner umzusteig",
+        "reasoning": "As ADAC representative, he supports CO2 pricing as an incentive rather than a ban, preferring market mechanisms over prescriptive bans.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Dr. Michael Haberland",
+        "role": "",
+        "quote": "Man kann Menschen nicht umerziehen, indem man ihnen das Leben k\u00fcnstlich verteuert. Wer Mobilit\u00e4t wie unseren hocheffizienten Verbrennungsmotor derart verteufelt, verliert die Akzeptanz der Menschen.",
+        "reasoning": "He explicitly criticizes making life artificially expensive and demonizing combustion engines, rejecting the ban's approach.",
+        "confidence": "high",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13816,18 +13574,28 @@
       {
         "speaker": "Michael Theurer",
         "role": "",
-        "quote": "Wir sollten nicht weitere drei Jahre f\u00fcr dieses Land vergeuden",
-        "reasoning": "Statement about not wasting three years is ambiguous; could be interpreted as wanting faster action or opposing the policy as a waste.",
+        "quote": "\"Wir sollten nicht weitere drei Jahre f\u00fcr dieses Land vergeuden\"",
+        "reasoning": "He speaks of not wasting three years, likely criticizing policy delays or inefficiencies, suggesting opposition to the current approach.",
         "confidence": "low",
         "article_title": null,
         "article_url": null,
         "date": null
       },
       {
-        "speaker": "Winfried Hermann",
+        "speaker": "Andreas Koelpin",
         "role": "",
-        "quote": "Wenn nicht alles l\u00e4uft, einfach nur Stellen abzubauen, ist das entt\u00e4uschend.",
-        "reasoning": "Expresses disappointment about job cuts but does not directly comment on the policy itself, making his stance unclear.",
+        "quote": "Ich bin jetzt seit 25 Jahren im Unternehmen, so etwas habe ich noch nicht erlebt. Ich schaue in die Gesichter meiner Kollegen und sehe Perspektivlosigkeit",
+        "reasoning": "He describes unprecedented hopelessness among colleagues, likely due to transition pressures from the policy.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Michael G\u00f6rg",
+        "role": "",
+        "quote": "Ich vermisse ein Zeichen vom Management, dass auch dort verzichtet wird, damit das Unternehmen durch die schwierigen Zeiten kommt und m\u00f6glichst viele Mitarbeiter an Bord bleiben k\u00f6nnen.",
+        "reasoning": "He misses management sacrifice to keep employees, suggesting the policy is causing hardship and opposition to its impacts.",
         "confidence": "medium",
         "article_title": null,
         "article_url": null,
@@ -13837,8 +13605,8 @@
         "speaker": "Jens Spahn",
         "role": "",
         "quote": "Die Corona-Schutzimpfung war nicht sicher, nicht effektiv und hat die Erwartungen nie erf\u00fcllt - und er wusste es.",
-        "reasoning": "Quote is about COVID vaccines, not related to the combustion engine ban, so no clear stance can be inferred.",
-        "confidence": "low",
+        "reasoning": "His quote about COVID vaccine misinformation suggests distrust in government mandates, likely extending to the combustion ban.",
+        "confidence": "medium",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13847,8 +13615,260 @@
         "speaker": "Helmut Schmidt",
         "role": "",
         "quote": "\"Lieber f\u00fcnf Prozent Inflation als f\u00fcnf Prozent Arbeitslosigkeit\"",
-        "reasoning": "General economic statement about inflation vs. unemployment, not directly addressing the combustion engine ban.",
+        "reasoning": "His historical quote prioritizes low unemployment over low inflation, implying he would oppose policies that threaten jobs, like a rapid transition.",
+        "confidence": "low",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Fritz Vahrenholt",
+        "role": "",
+        "quote": "Diese Einigung auf EU-Ebene sogar als \"Selbstaufgabe Europas\".",
+        "reasoning": "He calls the EU agreement \"self-abandonment of Europe,\" clearly opposing the policy.",
         "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Alexander Hoffmann",
+        "role": "",
+        "quote": "\"Ich setze darauf, dass es im weiteren Verfahren zu erheblichen \u00c4nderungen an dem Kommissionsvorschlag kommen wird.\"",
+        "reasoning": "He hopes for substantial changes to the proposal, indicating opposition to the current form of the policy.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Konstantin Sixt",
+        "role": "",
+        "quote": "\"Aus unserer Sicht, gest\u00fctzt durch Studien und Kundenumfragen, folgt eine erfolgreiche Transformation einem klaren Prinzip: Nachfrage folgt der Schnelladeinfrastruktur, nicht umgekehrt.\"",
+        "reasoning": "He argues that infrastructure should precede demand, implying the ban is premature without adequate charging infrastructure.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Alexander Sixt",
+        "role": "",
+        "quote": "\"Oder anders: 80 Prozent der gesamten EU ist Ladew\u00fcste.\"",
+        "reasoning": "Points out lack of charging infrastructure in the EU, implying the ban is premature and impractical.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Apostolos Tzitzikostas",
+        "role": "",
+        "quote": "\"das Signal aus Br\u00fcssel, dass die Europ\u00e4ische Kommission nicht stur an einst beschlossenen Regeln festh\u00e4lt, sondern auf neue Realit\u00e4ten reagiert\"",
+        "reasoning": "Praises the European Commission for being flexible and not sticking rigidly to rules, indicating a preference for adaptable policies over a strict ban.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Roman Haider",
+        "role": "",
+        "quote": "\"Die Kommission stellt fest, dass Unternehmen zu wenige Elektroautos kaufen. Also werden Unternehmen jetzt gezwungen, E-Autos zu kaufen. Die Kommission stellt fest, dass wir B\u00fcrger lieber Benziner, Die\"",
+        "reasoning": "Criticizes the Commission for forcing companies to buy electric cars, implying opposition to coercive measures in the policy.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Roloff",
+        "role": "",
+        "quote": "\"ohne \"Weitblick und Konzept\" zu agieren\"",
+        "reasoning": "Describes the policy as acting without foresight and concept, implying opposition due to poor planning.",
+        "confidence": "medium",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Klaus Holetscheck",
+        "role": "",
+        "quote": "\"Das sieht eher auf den ersten Blick nach einer Scheinl\u00f6sung aus, die lediglich B\u00fcrokratie mit sich bringt. Hier werden bewusst Deutschland und die deutsche Industrie und deutsche Unternehmen benachtei\"",
+        "reasoning": "Calls the policy a sham solution that brings bureaucracy and disadvantages German industry, clearly opposing it.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Felix Banaszak",
+        "role": "",
+        "quote": "\"K\u00fcnftig muss jeder Autohersteller in Kleinstarbeit die Menge von eingebautem gr\u00fcnen Stahl und den Einsatz von E-Fuels vorrechnen und nachweisen k\u00f6nnen - wir wissen alle: Das wird so nicht klappen\"",
+        "reasoning": "Criticizes the bureaucratic burden of proving green steel and e-fuels usage, stating it won't work, implying opposition due to impracticality.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Horst Ott",
+        "role": "",
+        "quote": "\"Wir ben\u00f6tigen die Einnahmen durch Verbrenner, um den aktuell zu langsamen Hochlauf der E-Mobilit\u00e4t zu finanzieren\"",
+        "reasoning": "Argues that revenue from combustion engines is needed to finance the e-mobility transition, implying opposition to a ban that would cut off that revenue.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Ferdinand Dudenh\u00f6ffer",
+        "role": "",
+        "quote": "\"Wenn man 2030 sieht, dass 90 Prozent nicht zu schaffen ist, wird man wieder weich werden in Br\u00fcssel und dem Druck nachgeben und dann auf vielleicht 80 Prozent gehen oder 90 Prozent f\u00fcr 2040 einfordern\"",
+        "reasoning": "Predicts that the CO2 goals will be softened due to feasibility issues, suggesting he views the policy as too strict and unrealistic.",
+        "confidence": "medium",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Martin Maier",
+        "role": "",
+        "quote": "\"Weil es ein preisg\u00fcnstiges Fahrzeug werden wird, hochperformant, attraktiv, das wird sich von alleine regeln\"",
+        "reasoning": "Believes market forces will drive adoption of electric vehicles without a ban, implying opposition to the policy as unnecessary.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Mercedes-Benz",
+        "role": "",
+        "quote": "\"Schritt in die richtigen Richtung hin zu mehr Flexibilit\u00e4t f\u00fcr uns als Hersteller und hin zu der notwendigen Technologieneutralit\u00e4t\"",
+        "reasoning": "Advocates for flexibility and technology neutrality, indicating opposition to a prescriptive ban on combustion engines.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Markus Ferber",
+        "role": "",
+        "quote": "\"Anders als \u00f6ffentlich wahrgenommen\" umfasse die geplante Neuregelung \"nicht nur Mietwagen und Firmenflotten\", sondern auch \"die privat geleasten Fahrzeuge in den Flotten der Autobauer\"\"",
+        "reasoning": "Points out the broad scope of the regulation, likely as a criticism given his party's stance, indicating opposition.",
+        "confidence": "medium",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Dariusz Jo\u0144ski",
+        "role": "",
+        "quote": "\"So w\u00fcrden insbesondere kleine und mittlere Unternehmen und Einzelunternehmer durch einen Kaufzwang in ihrer Liquidit\u00e4t bedroht\"",
+        "reasoning": "States that a purchase mandate threatens the liquidity of small and medium enterprises, indicating opposition due to negative economic impact.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Sigmar Gabriel",
+        "role": "",
+        "quote": "\"Diese Regierung packt nicht die Themen an, die deutsche Unternehmen besch\u00e4ftigen und die sie daran hindern, wieder in Deutschland zu investieren.\"",
+        "reasoning": "Criticizes the government for not addressing issues that concern companies, likely including the ban, implying opposition.",
+        "confidence": "medium",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Hans Werner Sinn",
+        "role": "",
+        "quote": "Deutschland zwingt sich in die Deindustrialisierung",
+        "reasoning": "He criticizes the combustion engine ban for forcing Germany into deindustrialization, implying it should be removed or weakened to protect industry.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Rainer Dulger",
+        "role": "",
+        "quote": "Deutschland sei aktuell nicht mehr konkurrenzf\u00e4hig.",
+        "reasoning": "He links Germany's lack of competitiveness to policies like the combustion engine ban, suggesting opposition to such regulations that harm economic competitiveness.",
+        "confidence": "high",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      }
+    ],
+    "neutral": [
+      {
+        "speaker": "Alice Weidel",
+        "role": "",
+        "quote": "Frieden in Europa kann es nicht ohne Russland geben.",
+        "reasoning": "The provided quotes do not address the combustion engine ban policy, making her stance unclear.",
+        "confidence": "low",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Stefan Bratzel",
+        "role": "",
+        "quote": "Die anhaltende Diskussion rund um das faktische Verbrennerverbot 2035 verst\u00e4rkt die Verunsicherung der Verbraucher und verz\u00f6gert den schnellen Markthochlauf",
+        "reasoning": "He criticizes the uncertainty caused by the debate around the ban and calls for clearer signals and better promotion of electromobility, without explicitly supporting or opposing the ban itself.",
+        "confidence": "medium",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Johannes Oetjen",
+        "role": "",
+        "quote": "Elektrofahrzeuge gelten als Chance, lokale Wertsch\u00f6pfung zu generieren und Afrikas reichhaltige Rohstoffvorkommen sowie sein gro\u00dfes Potenzial an erneuerbarer Energie zu nutzen.",
+        "reasoning": "He discusses the potential for electric vehicles in Africa without expressing a clear stance on the EU combustion engine ban policy.",
+        "confidence": "low",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Moritz Schularick",
+        "role": "",
+        "quote": "Wir sollten alle zehn Prozent mehr arbeiten, auch ohne Lohnausgleich.",
+        "reasoning": "The provided quotes do not address the combustion engine ban policy, making his stance unclear.",
+        "confidence": "low",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Mathias Miedreich",
+        "role": "",
+        "quote": "Wir m\u00fcssen wieder unsere unternehmerische Freiheit erlangen",
+        "reasoning": "He calls for regaining entrepreneurial freedom and notes benefits of regulatory alignment with China, but does not explicitly support or oppose the ban.",
+        "confidence": "medium",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Euan Graham",
+        "role": "",
+        "quote": "Im Jahr 2025 hat sich der Schwerpunkt verlagert. Die Schwellenl\u00e4nder holen nicht l\u00e4nger auf, sondern f\u00fchren den Wandel hin zur Elektromobilit\u00e4t an.",
+        "reasoning": "He observes that emerging countries are leading the shift to electromobility without expressing a stance on the EU policy.",
+        "confidence": "low",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Winfried Hermann",
+        "role": "",
+        "quote": "Wenn nicht alles l\u00e4uft, einfach nur Stellen abzubauen, ist das entt\u00e4uschend.",
+        "reasoning": "He expresses disappointment about job cuts if things don't run well, but does not directly address the ban, making his stance unclear.",
+        "confidence": "low",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13857,38 +13877,8 @@
         "speaker": "Luca De Meo",
         "role": "",
         "quote": "\"Braucht man wirklich einen Spurhalteassistenten in Autos, die 95 Prozent ihrer Zeit in der Stadt fahren?\"",
-        "reasoning": "Question about the need for driver assistance systems in city cars does not address the combustion engine ban.",
-        "confidence": "high",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Volkswagen",
-        "role": "",
-        "quote": "Die Kommission macht mit ihrem Vorschlag deutlich: Elektromobilit\u00e4t ist die f\u00fchrende Technologie der Zukunft.",
-        "reasoning": "Acknowledges the Commission's emphasis on electromobility as the leading future technology, but does not explicitly support or oppose the ban.",
-        "confidence": "medium",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Winfried Kretschmann",
-        "role": "",
-        "quote": "Man m\u00fcsse \"endlich diese elende Antriebsdebatte beenden, die die Leute verunsichert und beim Autokauf z\u00f6gern l\u00e4sst\"",
-        "reasoning": "Wants to end the drivetrain debate that causes uncertainty, but it is unclear whether he supports the ban or a compromise.",
+        "reasoning": "His quote is about specific car features like lane-keeping assist, not directly about the combustion ban, making his stance unclear.",
         "confidence": "low",
-        "article_title": null,
-        "article_url": null,
-        "date": null
-      },
-      {
-        "speaker": "Markus Ferber",
-        "role": "",
-        "quote": "\"Anders als \u00f6ffentlich wahrgenommen\" umfasse die geplante Neuregelung \"nicht nur Mietwagen und Firmenflotten\", sondern auch \"die privat geleasten Fahrzeuge in den Flotten der Autobauer\"",
-        "reasoning": "Clarifies the scope of the regulation without expressing an opinion for or against the policy.",
-        "confidence": "high",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13896,9 +13886,9 @@
       {
         "speaker": "Patrick Hummel",
         "role": "",
-        "quote": "Volkswagen ist in Europa the last man standing",
-        "reasoning": "Makes a factual statement about Volkswagen's market position without commenting on the policy.",
-        "confidence": "high",
+        "quote": "\"Volkswagen ist in Europa the last man standing\"",
+        "reasoning": "The quote is about Volkswagen's market position and does not directly address the policy, making the stance unclear.",
+        "confidence": "low",
         "article_title": null,
         "article_url": null,
         "date": null
@@ -13907,7 +13897,17 @@
         "speaker": "Ola K\u00e4llenius",
         "role": "",
         "quote": "Wir sollten mehr europ\u00e4isch denken",
-        "reasoning": "His statement about thinking more European is vague and does not directly address the combustion engine ban, making his stance unclear.",
+        "reasoning": "His statement about thinking more European is vague and does not directly address the policy; it could imply support for coordinated EU action or criticism of unilateral measures, but the stance on the ban itself is unclear.",
+        "confidence": "low",
+        "article_title": null,
+        "article_url": null,
+        "date": null
+      },
+      {
+        "speaker": "Oliver Risken",
+        "role": "",
+        "quote": "Mit dem heristo Zukunftsdialog Mittelstand holen wir Wirtschaft und Politik aus der Komfortzone und an einen Tisch. Die Lage in Deutschland ist zu ernst f\u00fcr Business as usual. Wir brauchen mutige Ents",
+        "reasoning": "His call for dialogue and bold decisions due to Germany's serious situation does not specifically reference the combustion engine ban, making his position on the policy itself unclear.",
         "confidence": "low",
         "article_title": null,
         "article_url": null,
@@ -13915,9 +13915,9 @@
       }
     ],
     "counts": {
-      "support": 21,
-      "oppose": 37,
-      "neutral": 21,
+      "support": 24,
+      "oppose": 44,
+      "neutral": 11,
       "total": 79
     }
   },
@@ -13933,40 +13933,40 @@
     "total_positions": 0,
     "total_financial_mentions": 249
   },
-  "executive_brief": "The European Union's planned ban on new combustion engine cars by 2035 is facing significant political and industrial pushback, with debates centering on a potential softening of the regulation from a 100% to a 90% CO2 reduction target. This would allow some new combustion-powered vehicles, potentially using e-fuels or hybrid technology, to be sold post-2035. The issue matters profoundly as it pits urgent climate action against economic stability and cultural identity, with Europe's flagship automotive industry and its transition to electric mobility hanging in the balance.\nKey stakeholders are deeply divided. Automakers like BMW and Volkswagen advocate for technological neutrality and warn against a 'backdoor ban,' while political figures from the CDU/CSU and FDP demand the ban's removal, framing the car as a cultural and economic asset. Conversely, environmentalists and Green politicians accuse the industry of obstructing climate progress, and the EU Commission, under Ursula von der Leyen, is signaling a retreat from the hard deadline. The SPD seeks a middle ground, allowing extended hybrid use but warning against delay. The outcome will define Europe's industrial future, climate credibility, and the pace of its energy transition.",
-  "policy_overview": "The policy is the EU's 'Combustion Engine Ban,' which originally mandated a 100% reduction in CO2 emissions from new cars by 2035, effectively banning the sale of new petrol and diesel cars. In the face of intense debate, there is now a proposal to weaken this target to a 90% reduction, which would permit a limited number of new combustion engine vehicles\u2014potentially those running on synthetic e-fuels or as plug-in hybrids\u2014to continue to be registered after 2035.",
+  "executive_brief": "The European Union's planned 2035 ban on new combustion engine vehicles is facing intense political and industry pushback, with discussions about softening the deadline or allowing exceptions for synthetic fuels and hybrids. This debate matters because it directly impacts Europe's climate goals, the automotive industry's transition strategy, and the continent's competitive position in the global electric vehicle market. Stakeholders are deeply divided, creating uncertainty that could delay investments and consumer adoption.\nKey stakeholder positions reveal a sharp ideological split. Conservative and industry leaders (e.g., Friedrich Merz, Manfred Weber, Oliver Zipse) argue for technological neutrality and consumer choice, warning against a 'backdoor ban' and celebrating flexibility as a victory for engineering. Environmental advocates and some politicians (e.g., Michael Bloss, Sebastian Bock, J\u00fcrgen Resch) condemn any retreat as a betrayal of climate targets and public health. The European Commission, under Ursula von der Leyen, appears to be moderating its stance, seeking a compromise that balances industrial and green interests. The implications are significant: a softened policy could protect traditional automakers in the short term but risks undermining long-term climate commitments and Europe's EV leadership.",
+  "policy_overview": "The policy is an EU regulation that aims to reduce CO2 emissions from new cars by 100% by 2035, effectively banning the sale of new petrol and diesel cars. However, the debate centers on potential modifications, such as allowing combustion engines that run exclusively on carbon-neutral e-fuels or extending the lifespan for plug-in hybrids, thereby turning a strict 'ban' into a more flexible emissions target.",
   "key_arguments": {
     "for": [
-      "Essential for meeting climate targets and reducing air pollution to protect public health.",
-      "Drives innovation and secures long-term industrial competitiveness in electric mobility.",
-      "Prevents 'vors\u00e4tzlichen Betrug' (intentional fraud) by the auto industry, as highlighted by environmentalist J\u00fcrgen Resch."
+      "Essential for meeting climate targets (90-100% CO2 reduction by 2035) and improving public health.",
+      "Drives technological innovation and secures Europe's leadership in the global transition to clean energy.",
+      "Prevents long-term lock-in to fossil fuel dependency and avoids greater economic disruption later."
     ],
     "against": [
-      "Threatens jobs and economic stability in Europe's core automotive industry.",
-      "Infringes on consumer choice and ignores alternative technologies like e-fuels and hybrids.",
-      "Represents an ideological 'Kulturkampf' (culture war) against the car as a cultural and economic pillar."
+      "Infringes on consumer choice and ignores the cultural and economic significance of the automobile in Europe.",
+      "Creates market uncertainty, delays EV adoption, and harms the competitive position of European automakers.",
+      "A technology-neutral approach allowing e-fuels and hybrids is more pragmatic and preserves engineering innovation."
     ]
   },
   "whats_at_stake": {
     "winners": [
-      "Traditional Automakers (e.g., BMW, Volkswagen) - Gain flexibility and more time to manage the transition, potentially preserving combustion engine revenue streams.",
-      "FDP/CDU/CSU Politicians - Could gain political capital by positioning themselves as defenders of industry, choice, and economic pragmatism.",
-      "Suppliers like Bosch - Extended lifespan for combustion engine components and related technologies."
+      "Traditional German automakers (VW, BMW, Mercedes) - Gain transition flexibility to protect ICE investments and develop e-fuels.",
+      "FDP/CDU/CSU politicians - Political victory for advocating against strict regulation, appealing to industry and conservative voters.",
+      "Bosch and e-fuel proponents - Opportunity for alternative combustion technologies to remain relevant post-2035."
     ],
     "losers": [
-      "Environmental Groups & Climate Activists - Weakening the ban delays emission reductions, undermining climate goals.",
-      "Pure EV Manufacturers (e.g., Tesla) - Face reduced regulatory pressure and increased competition from prolonged combustion engine sales.",
-      "Green Politicians - Setback for their policy agenda advocating a swift and unambiguous transition."
+      "Tesla and BYD - Policy uncertainty and prolonged ICE competition could slow EV market growth in Europe.",
+      "Environmental groups and Green politicians - Weakened climate policy represents a setback for emission reduction goals.",
+      "European Commission credibility - Perceived backtracking on a flagship Green Deal policy risks undermining climate leadership."
     ],
     "risks": [
-      "Missing EU climate targets for 2035, jeopardizing broader carbon neutrality goals.",
-      "Creating investment uncertainty and stranded assets if the transition path becomes fragmented and delayed.",
-      "Deepening political polarization and fueling a counterproductive 'culture war' around mobility."
+      "Missing 2035 climate targets due to diluted regulations and prolonged tailpipe emissions.",
+      "Losing the EV race to China and the US as investment and consumer confidence are undermined by policy ambiguity.",
+      "Deepening political polarization and 'culture war' around the automobile, destabilizing climate consensus."
     ],
     "opportunities": [
-      "Accelerated innovation in synthetic fuels (e-fuels) and advanced hybrid systems as alternative pathways.",
-      "A more gradual transition that could maintain industrial stability and broader public acceptance.",
-      "Potential for Europe to develop a more technologically diverse and resilient automotive sector."
+      "Accelerated innovation in synthetic fuels and hybrid technologies as alternative pathways to carbon neutrality.",
+      "Potential for developing countries to leapfrog to EVs and renewable energy systems, creating new markets.",
+      "Strengthened industrial strategy if a clear, flexible roadmap fosters a just transition for auto sector jobs."
     ]
   }
 }
